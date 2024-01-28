@@ -1,0 +1,13 @@
+2019-04-02 15:30:53 Error: [RuntimeException] Cannot write cache file. Unable to write to /Applications/MAMP/htdocs/ckbank/webroot/static in /Applications/MAMP/htdocs/ckbank/vendor/markstory/mini-asset/src/Output/AssetWriter.php on line 84
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ckbank/vendor/markstory/asset_compress/src/Shell/Task/AssetBuildTask.php(75): MiniAsset\Output\AssetWriter->write(Object(MiniAsset\AssetTarget), '/*! UIkit 2.27....')
+#1 /Applications/MAMP/htdocs/ckbank/vendor/markstory/asset_compress/src/Shell/Task/AssetBuildTask.php(48): AssetCompress\Shell\Task\AssetBuildTask->_buildTarget(Object(MiniAsset\AssetTarget))
+#2 /Applications/MAMP/htdocs/ckbank/vendor/markstory/asset_compress/src/Shell/AssetCompressShell.php(74): AssetCompress\Shell\Task\AssetBuildTask->build()
+#3 /Applications/MAMP/htdocs/ckbank/vendor/cakephp/cakephp/src/Console/Shell.php(493): AssetCompress\Shell\AssetCompressShell->build()
+#4 /Applications/MAMP/htdocs/ckbank/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(230): Cake\Console\Shell->runCommand(Array, true, Array)
+#5 /Applications/MAMP/htdocs/ckbank/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#6 /Applications/MAMP/htdocs/ckbank/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#7 /Applications/MAMP/htdocs/ckbank/bin/cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#8 {main}
+
+

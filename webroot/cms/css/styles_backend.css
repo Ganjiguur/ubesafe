@@ -1,0 +1,125 @@
+/*OVERRIDE*/
+
+.back-gradient-cms {
+  background-color: #222d47;
+}
+
+.fr-box {
+  z-index: 0!important;
+}
+
+.uk-tab-responsive .uk-dropdown {
+  width: auto;
+}
+
+.user_heading_avatar .fileinput-preview.thumbnail{
+  width:200px;
+  height: 200px;
+}
+
+.highlighrow {
+  background-color: aliceblue;
+}
+
+.margin-bottom-6{
+  margin-bottom: 6px;
+}
+
+.padding-top-4{
+  padding-top: 4px;
+}
+
+.padding-20{
+  padding:20px!important;
+}
+
+.uk-search-field{
+  border-bottom: 1px solid #ddd!important;
+}
+
+.text-white{
+  color: #fff;
+}
+
+.label-gray{
+  color: #727272;
+}
+
+.fr-view .uk-grid>div:hover {
+  border:1px dashed #ccc;
+}
+
+.fr-view .uk-grid:hover {
+  border:1px dashed gray;
+}
+
+/* Table sort icons */
+tr.sort-header > th > a.asc:after {
+  content: '\e316';
+}
+
+tr.sort-header > th > a.desc:after {
+  content: '\e313';
+}
+
+tr.sort-header > th > a:after {
+  width: 18px;
+  margin-left:10px;
+  height: 100%;
+  vertical-align: middle;
+  font-size: 18px;
+  font-family: "Material Icons";
+  color: #212121;
+}
+/* END OF Table soter icons */
+
+em {
+  color:inherit;
+}
+
+.bg-success {
+  background-color: #e9f3e8;
+}
+
+.error-message::before {
+  content: "* ";
+}
+
+.error-message {
+  color:#d85030;
+  font-weight: 500;
+
+}
+
+/*.fr-view img {
+    margin:10px 10px!important;
+}*/
+
+.fr-view .fr-file::after {
+  position: relative;
+  content: ""!important;
+  font-weight: 400;
+}
+
+
+/* Fix froala editor sticky toolbar and body appears front of the header */
+#header_main {
+  z-index: 1300;
+}
+#sidebar_main {
+  z-index: 1300;
+}
+
+#page_heading {
+  z-index: 1299!important;
+}
+
+.uk-dropdown, .uk-dropdown-blank {
+  z-index: 1350!important;
+}
+
+.fr-box{
+  z-index: 0!important;
+}
+
+/* END OF Fix froala editor sticky toolbar and body appears front of the header */

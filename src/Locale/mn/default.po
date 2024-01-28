@@ -1,0 +1,3404 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-02-19 10:25+0800\n"
+"PO-Revision-Date: 2018-02-19 15:02+0800\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Controller/AppController.php:94
+msgid "Алдаа гарлаа."
+msgstr ""
+
+#: Controller/AppController.php:174 Controller/FormRecordsController.php:211
+msgid "Хүсэлт алдаатай байна. Та мэдээллээ шалгаад дахин оролдоно уу."
+msgstr ""
+
+#: Controller/AppUsersController.php:191 Controller/ArticlesController.php:264
+#: Controller/CategoriesController.php:115
+#: Controller/CurrenciesController.php:118;134
+#: Controller/FinanceReportsController.php:87
+#: Controller/MenusController.php:152
+#: Controller/NotificationsController.php:144;155;160
+#: Controller/PagesController.php:242 Controller/ProductsController.php:224
+msgid "Bad request"
+msgstr "Алдаа гарлаа"
+
+#: Controller/ApplicationsController.php:101;109
+#: Controller/FormRecordsController.php:305;313
+msgid "Огноо буруу байна."
+msgstr ""
+
+#: Controller/ApplicationsController.php:126
+msgid "Сонгосон хугацаанд анкет бүтргэгдээгүй байна."
+msgstr ""
+
+#: Controller/ApplicationsController.php:315
+msgid "Ажлын анкет устгагдлаа"
+msgstr ""
+
+#: Controller/ApplicationsController.php:317
+msgid "Ажлын анкет устсангүй. Дахин оролдно уу."
+msgstr ""
+
+#: Controller/ArticlesController.php:137 Template/Articles/admin_index.ctp:28
+msgid "Нийтлэлүүд"
+msgstr ""
+
+#: Controller/ArticlesController.php:163
+msgid "The {0} could not be saved!"
+msgstr "{0}-ийг хадгалах боломжгүй байна!"
+
+#: Controller/ArticlesController.php:166;230 Controller/PagesController.php:184
+msgid "The {0} could not be saved! Please try again."
+msgstr "{0}-н мэдээллийг хадгалах боломжгүй байна. Та дахин оролдно уу."
+
+#: Controller/ArticlesController.php:174 Controller/PagesController.php:199
+msgid "Wrong request!"
+msgstr "Алдаа гарлаа!"
+
+#: Controller/ArticlesController.php:227
+msgid "The {0} has been saved"
+msgstr "{0} хадгалагдлаа"
+
+#: Controller/ArticlesController.php:303;322
+msgid "Мэдээ устгагдлаа."
+msgstr ""
+
+#: Controller/ArticlesController.php:305;324
+msgid "Мэдээ устгах боломжгүй байна."
+msgstr ""
+
+#: Controller/ArticlesController.php:335
+msgid "Мэдээ сэргээгдлээ."
+msgstr ""
+
+#: Controller/ArticlesController.php:337
+msgid "Мэдээг сэргээхэд алдаа гарлаа."
+msgstr ""
+
+#: Controller/BannersController.php:81
+msgid "Error durin image upload process."
+msgstr ""
+
+#: Controller/BannersController.php:117 Controller/FormsController.php:67
+msgid "Send"
+msgstr ""
+
+#: Controller/BannersController.php:119
+msgid "Баннер үүсгэх"
+msgstr ""
+
+#: Controller/BannersController.php:130
+msgid "Баннер засах"
+msgstr ""
+
+#: Controller/BannersController.php:155
+msgid "The banner has been saved."
+msgstr ""
+
+#: Controller/BannersController.php:158
+msgid "The banner could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:200
+msgid "The banner has been deleted."
+msgstr "Баннер устлаа."
+
+#: Controller/BannersController.php:202
+msgid "The banner could not be deleted. Please, try again."
+msgstr "Баннер утсгахад алдаа гарлаа. Дахин оролдоно уу."
+
+#: Controller/BranchesController.php:90
+msgid "Create Branch"
+msgstr ""
+
+#: Controller/BranchesController.php:94
+msgid "Edit Branch"
+msgstr ""
+
+#: Controller/BranchesController.php:104
+#: Controller/FinanceReportsController.php:62
+#: Controller/ProductsController.php:146
+msgid "Мэдээлэл хадгалагдлаа."
+msgstr ""
+
+#: Controller/BranchesController.php:107
+#: Controller/FinanceReportsController.php:65
+#: Controller/ProductsController.php:149
+msgid "Хадгалахад алдаа гарлаа. Мэдээллээ шалгаад дахин оролдоно уу"
+msgstr ""
+
+#: Controller/BranchesController.php:125
+msgid "The branch has been deleted."
+msgstr ""
+
+#: Controller/BranchesController.php:127
+msgid "The branch could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:33 Controller/MenusController.php:39
+msgid "Шинэ {0} нэмэх"
+msgstr ""
+
+#: Controller/CategoriesController.php:38
+msgid "{0} мэдээллийг засах"
+msgstr ""
+
+#: Controller/CategoriesController.php:77
+msgid "Амжилттай засагдлаа."
+msgstr ""
+
+#: Controller/CategoriesController.php:81 Controller/ExtendsController.php:77
+#: Controller/MenusController.php:93 Controller/NotificationsController.php:110
+msgid "Хадгалах боломжгүй байна. Та дахин оролдоно уу."
+msgstr ""
+
+#: Controller/CategoriesController.php:98
+msgid ""
+"Уг категоритой холбогдсон нийтлэл байна. Та эхлээд тэдгээр нийтлэлүүдийг "
+"устгана уу."
+msgstr ""
+
+#: Controller/CategoriesController.php:103
+#: Controller/FinanceReportsController.php:75
+#: Controller/MenusController.php:140
+#: Controller/NotificationsController.php:121
+msgid "{0} устгагдлаа."
+msgstr ""
+
+#: Controller/CategoriesController.php:105
+#: Controller/FinanceReportsController.php:77
+#: Controller/MenusController.php:142
+#: Controller/NotificationsController.php:123
+msgid "{0} устсангүй. Дахин оролдоно уу."
+msgstr ""
+
+#: Controller/CurrenciesController.php:29
+msgid "Currencies rates"
+msgstr ""
+
+#: Controller/CurrenciesController.php:48
+msgid "Create Currencies rates"
+msgstr ""
+
+#: Controller/CurrenciesController.php:54
+msgid "Edit Currencies rates"
+msgstr ""
+
+#: Controller/CurrenciesController.php:81
+msgid "The Currencies rates has been saved."
+msgstr ""
+
+#: Controller/CurrenciesController.php:85
+msgid "The Currencies rates could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ExtendsController.php:48
+msgid "Шинэ мэдээлэл нэмэх"
+msgstr ""
+
+#: Controller/ExtendsController.php:53
+msgid "Мэдээлэл засах"
+msgstr ""
+
+#: Controller/ExtendsController.php:73
+msgid "Амжилттай хадгалагдлаа."
+msgstr ""
+
+#: Controller/ExtendsController.php:186
+msgid "Амжилттай устгагдлаа."
+msgstr ""
+
+#: Controller/ExtendsController.php:188
+msgid "Мэдээлэл устсангүй. Та дахин оролдоно уу."
+msgstr ""
+
+#: Controller/FaqsController.php:88
+msgid "Create Question & Answers"
+msgstr ""
+
+#: Controller/FaqsController.php:99
+msgid "Edit Question & Answers"
+msgstr ""
+
+#: Controller/FaqsController.php:111
+msgid "The Question & Answers has been saved."
+msgstr ""
+
+#: Controller/FaqsController.php:114
+msgid "The Question & Answers could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FaqsController.php:137
+msgid "The Question & Answers has been deleted."
+msgstr ""
+
+#: Controller/FaqsController.php:139
+msgid "The Question & Answers could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FinanceReportsController.php:52
+msgid "Create Report"
+msgstr ""
+
+#: Controller/FinanceReportsController.php:56
+msgid "Edit Report"
+msgstr ""
+
+#: Controller/FinanceReportsController.php:104
+msgid "No content"
+msgstr ""
+
+#: Controller/FormRecordsController.php:103
+msgid "Your actoin saved."
+msgstr ""
+
+#: Controller/FormRecordsController.php:107
+msgid "Your action could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FormRecordsController.php:155
+msgid "Та шаардлагатай талбаруудыг бүрэн бөглөнө үү."
+msgstr ""
+
+#: Controller/FormRecordsController.php:202
+msgid ""
+"Хавсралт файлыг хуулахад алдаа гарлаа. Та хамгийн ихдээ 5MB хэмжээтэй файл "
+"хавсаргах боломжтой."
+msgstr ""
+
+#: Controller/FormRecordsController.php:242
+msgid "Баярлалаа."
+msgstr ""
+
+#: Controller/FormRecordsController.php:297
+msgid "Форм сонгогдоогүй байна."
+msgstr ""
+
+#: Controller/FormRecordsController.php:339
+msgid "Сонгосон хугацаанд хүсэлт бүтргэгдээгүй байна."
+msgstr ""
+
+#: Controller/FormRecordsController.php:347
+msgid "'Форм олдоогүй'"
+msgstr ""
+
+#: Controller/FormsController.php:69
+msgid "Create Form"
+msgstr ""
+
+#: Controller/FormsController.php:81
+msgid "Edit Form"
+msgstr ""
+
+#: Controller/FormsController.php:93
+msgid "The form has been saved."
+msgstr ""
+
+#: Controller/FormsController.php:96
+msgid "The form could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FormsController.php:117
+msgid "Энэ формыг устгаж болохгүй!"
+msgstr ""
+
+#: Controller/FormsController.php:123
+msgid "The form has been deleted."
+msgstr ""
+
+#: Controller/FormsController.php:125
+msgid "The form could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MenusController.php:46
+msgid "{0} засах"
+msgstr ""
+
+#: Controller/MenusController.php:89
+msgid "Амжилттай нэмэгдлээ."
+msgstr ""
+
+#: Controller/NotificationsController.php:42
+msgid "Send {0}"
+msgstr ""
+
+#: Controller/NotificationsController.php:47
+msgid "Edit {0}"
+msgstr ""
+
+#: Controller/NotificationsController.php:93
+msgid "Notification wasn't sent."
+msgstr ""
+
+#: Controller/NotificationsController.php:106
+msgid "Notification sent."
+msgstr ""
+
+#: Controller/NotificationsController.php:167
+msgid "Bad request2"
+msgstr ""
+
+#: Controller/PagesController.php:218
+msgid "The page has been saved."
+msgstr "Вэб хуудас хадгалагдлаа."
+
+#: Controller/PagesController.php:221
+msgid "The page could not be saved. Please, try again."
+msgstr "Вэб хуудас хадгалахад алдаа гарлаа. Та дахин оролдно уу."
+
+#: Controller/PagesController.php:267
+msgid "The page has been deleted."
+msgstr "Вэб хуудас устгагдлаа."
+
+#: Controller/PagesController.php:269
+msgid "The page could not be deleted. Please, try again."
+msgstr "Вэб хуудас устгахад алдаа гарлаа. Та дахин оролдно уу."
+
+#: Controller/PagesController.php:281
+msgid "Вэб хуудас устгагдлаа."
+msgstr ""
+
+#: Controller/PagesController.php:283
+msgid "Вэб хуудcыг устгах боломжгүй байна."
+msgstr ""
+
+#: Controller/PagesController.php:294
+msgid "Вэб хуудас сэргээгдлээ."
+msgstr ""
+
+#: Controller/PagesController.php:296
+msgid "Вэб хуудcыг сэргээхэд алдаа гарлаа."
+msgstr ""
+
+#: Controller/ProductsController.php:109
+msgid "Create Product"
+msgstr ""
+
+#: Controller/ProductsController.php:114
+msgid "Edit Product"
+msgstr ""
+
+#: Controller/ProductsController.php:182;198
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/ProductsController.php:184;200
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:212
+msgid "The product has been recovered."
+msgstr ""
+
+#: Controller/ProductsController.php:214
+msgid "The product could not be recovered. Please, try again."
+msgstr ""
+
+#: Controller/ReferrersController.php:57;82
+msgid "The referrer has been saved."
+msgstr ""
+
+#: Controller/ReferrersController.php:61;86
+msgid "The referrer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReferrersController.php:104
+msgid "The referrer has been deleted."
+msgstr ""
+
+#: Controller/ReferrersController.php:106
+msgid "The referrer could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Traits/AnketSubmitTrait.php:21
+msgid "Хүсэлт алдаатай байна. Та мэдээллээ шалгаад дахин илгээнэ үү."
+msgstr ""
+
+#: Controller/Traits/AnketSubmitTrait.php:62
+msgid ""
+"Уучлаарай, та мэдээллээ бүрэн зөв оруулсан эсэхээ шалгаад дахин илгээнэ үү."
+msgstr ""
+
+#: Model/Entity/Banner.php:56
+msgid "Popup (Center screen)"
+msgstr ""
+
+#: Model/Entity/Banner.php:57
+msgid "Popup (Bottom screen)"
+msgstr ""
+
+#: Model/Entity/Banner.php:58;70
+msgid "Homepage cover"
+msgstr ""
+
+#: Model/Entity/Banner.php:59
+msgid "Menu banner"
+msgstr ""
+
+#: Model/Entity/Banner.php:60;72
+msgid "Webpage cover"
+msgstr ""
+
+#: Model/Entity/Banner.php:71
+msgid "Homepage featured"
+msgstr ""
+
+#: Model/Entity/Banner.php:97 Model/Entity/Form.php:111
+msgid "Бүх хэл дээр харагдна"
+msgstr ""
+
+#: Model/Entity/Branch.php:176
+msgid "District"
+msgstr "Дүүрэг"
+
+#: Model/Entity/Branch.php:176
+msgid "Province"
+msgstr "Аймаг"
+
+#: Model/Entity/Faq.php:37
+msgid "Ерөнхий"
+msgstr ""
+
+#: Model/Entity/Faq.php:37 Template/Element/site/header.ctp:72;136
+#: Template/Pages/search.ctp:52
+msgid "Хайлт"
+msgstr ""
+
+#: Model/Entity/Form.php:41
+msgid "Хамгийн уртдаа 255 тэмдэгт бүхий текст мэдээлэл"
+msgstr ""
+
+#: Model/Entity/Form.php:42
+msgid "Тэмдэгтийн тоо хязгаарлахгүй"
+msgstr ""
+
+#: Model/Entity/Menu.php:62
+msgid "Линкгүй"
+msgstr ""
+
+#: Model/Entity/Menu.php:63 Template/Pages/admin_edit.ctp:13
+msgid "Вэб хуудас"
+msgstr ""
+
+#: Model/Entity/Menu.php:64 Template/Articles/admin_index.ctp:93
+#: Template/Element/articles/article_form.ctp:63
+#: Template/Menus/admin_index.ctp:139
+msgid "Категори"
+msgstr ""
+
+#: Model/Entity/Menu.php:65 Template/Menus/admin_index.ctp:144
+#: Template/Pages/search.ctp:7
+msgid "Бүтээгдэхүүн"
+msgstr ""
+
+#: Model/Entity/Menu.php:66
+msgid "Вэб линк"
+msgstr ""
+
+#: Model/Entity/Page.php:83
+msgid "Default"
+msgstr ""
+
+#: Model/Entity/Page.php:84
+msgid "Хажуугийн цэсгүй"
+msgstr ""
+
+#: Model/Entity/Page.php:85
+msgid "Санхүүгийн байдлын тайлан"
+msgstr ""
+
+#: Model/Entity/Page.php:86
+msgid "Орлогын тайлан"
+msgstr ""
+
+#: Model/Entity/Page.php:87 Template/Element/site/header.ctp:74
+#: Template/Element/site/user_help_bottom.ctp:7
+msgid "Холбоо барих"
+msgstr ""
+
+#: Model/Entity/Page.php:88
+msgid "Ажлын байр"
+msgstr ""
+
+#: Model/Entity/Page.php:89 Template/Applications/admin_index.ctp:28
+msgid "Ажлын анкет"
+msgstr ""
+
+#: Model/Entity/Page.php:90 Template/Element/site/crumb.ctp:16
+msgid "Нүүр хуудас"
+msgstr ""
+
+#: Model/Table/AppUsersTable.php:61
+msgid "Таны нууц үг хоорондоо таарахгүй байна. Дахин оруулна уу"
+msgstr ""
+
+#: Model/Table/AppUsersTable.php:104
+msgid "Имэйл хаяг алдаатай байна."
+msgstr ""
+
+#: Model/Table/AppUsersTable.php:112;217
+msgid "Имэйл хаяг бүртгэлтэй байна"
+msgstr ""
+
+#: Model/Table/ArticlesTable.php:83
+msgid "Нийтлэл хоосон байж болохгүй."
+msgstr ""
+
+#: Model/Table/ArticlesTable.php:102
+msgid "Тоо оруулна уу."
+msgstr ""
+
+#: Model/Table/ArticlesTable.php:127
+msgid "Нийтлэлийн линк давхардаж байна!"
+msgstr ""
+
+#: Model/Table/CategoriesTable.php:85
+msgid "Төрлийн нэр хоосон байна."
+msgstr ""
+
+#: Model/Table/CategoriesTable.php:88
+msgid "Төрлийн англи нэр хоосон байна."
+msgstr ""
+
+#: Model/Table/CategoriesTable.php:92
+msgid "Талбарыг гүйцэт бөглөнө үү."
+msgstr ""
+
+#: Model/Table/CategoriesTable.php:119
+msgid "Категорийн линк давхардаж байна!"
+msgstr ""
+
+#: Model/Table/PagesTable.php:128
+msgid "Вэб хуудсын линк давхардаж байна!"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:15
+msgid "Шинэ хэрэглэгч"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:16
+msgid "Шинэ хэрэглэгч үүсгэх"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:19 Template/AppUsers/edit.ctp:22
+#: Template/AppUsers/view.ctp:10 Template/Applications/admin_view.ctp:13
+#: Template/Articles/admin_edit.ctp:27 Template/Banners/admin_crud.ctp:12
+#: Template/Banners/admin_view.ctp:13 Template/Branches/admin_crud.ctp:8
+#: Template/Categories/admin_index.ctp:139
+#: Template/Currencies/admin_crud.ctp:25 Template/Extends/site_meta.ctp:121
+#: Template/Faqs/admin_crud.ctp:11 Template/FinanceReports/admin_crud.ctp:11
+#: Template/FormRecords/admin_view.ctp:15 Template/Forms/admin_crud.ctp:12
+#: Template/Forms/admin_view.ctp:12 Template/Menus/admin_index.ctp:167
+#: Template/Notifications/admin_index.ctp:144 Template/Pages/admin_edit.ctp:24
+#: Template/Pages/hr_anket.ctp:797 Template/Products/admin_crud.ctp:12
+msgid "Буцах"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:34 Template/AppUsers/edit.ctp:85
+#: Template/AppUsers/index.ctp:54 Template/AppUsers/view.ctp:55
+msgid "Хэрэглэгчийн нэр"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:38 Template/AppUsers/edit.ctp:89
+#: Template/AppUsers/view.ctp:64
+msgid "Бүтэн нэр"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:42 Template/AppUsers/edit.ctp:93
+#: Template/AppUsers/login.ctp:22 Template/AppUsers/view.ctp:73
+#: Template/Applications/admin_index.ctp:59
+msgid "Имэйл"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:46 Template/AppUsers/login.ctp:26
+#: Template/Element/site/ebank_login.ctp:24
+msgid "Нууц үг"
+msgstr ""
+
+#: Template/AppUsers/add.ctp:50 Template/AppUsers/edit.ctp:111
+#: Template/AppUsers/view.ctp:82
+msgid "Эрх"
+msgstr ""
+
+#: Template/AppUsers/change_password.ctp:11
+msgid "Нууц үгээ солих"
+msgstr ""
+
+#: Template/AppUsers/change_password.ctp:12
+msgid "Шинэ нууц үгээ оруулна уу"
+msgstr ""
+
+#: Template/AppUsers/change_password.ctp:23;65
+msgid "Одоогийн нууц үг"
+msgstr ""
+
+#: Template/AppUsers/change_password.ctp:34;76 Template/AppUsers/edit.ctp:120
+msgid "Шинэ нууц үг"
+msgstr ""
+
+#: Template/AppUsers/change_password.ctp:38;80
+msgid "Нууц үгээ давт"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:18 Template/AppUsers/view.ctp:7
+msgid "Хэрэглэгчийн мэдээлэл"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:19
+msgid "Мэдээлэл шинэчлэх"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:50 Template/Element/articles/article_form.ctp:95
+#: Template/Element/filemanager/image_load_js.ctp:27
+#: Template/Products/admin_crud.ctp:98
+msgid ""
+"Image is it too big. Please resize it down first (must be less than "
+"3300x3300)"
+msgstr "Зургийн хэмжээ хэт том байна. 3300х3300-с бага байх ёстой."
+
+#: Template/AppUsers/edit.ctp:55
+msgid "Image size must be less than 3 MB"
+msgstr "Зургийн хэмжээ 3MB-аас бага байх ёстой"
+
+#: Template/AppUsers/edit.ctp:59
+msgid "Image dimension must be more thant 300x300"
+msgstr "Зургийн хэмжээ 300х300-аас их байх ёстой"
+
+#: Template/AppUsers/edit.ctp:61
+msgid "Delete photo"
+msgstr "Зураг устгах"
+
+#: Template/AppUsers/edit.ctp:66
+msgid "Зураг сонгох"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:102
+msgid "Бусад тохиргоо"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:105
+msgid "User Active"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:116 Template/AppUsers/view.ctp:93
+msgid "Зөвшөөрөх хэсгүүд"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:117
+msgid "Сонгоно уу..."
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:120
+msgid "солихгүй бол хоосон орхино"
+msgstr ""
+
+#: Template/AppUsers/edit.ctp:125
+msgid "Confirm new password"
+msgstr "Нууц үгээ давт"
+
+#: Template/AppUsers/edit.ctp:130 Template/AppUsers/view.ctp:25
+#: Template/Element/cms/header.ctp:48
+msgid "Нууц үг солих"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:18
+msgid "Хэрэглэгчид"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:19 Template/Applications/admin_index.ctp:29
+#: Template/Articles/admin_index.ctp:29 Template/Banners/admin_index.ctp:20
+#: Template/Branches/admin_index.ctp:18 Template/Faqs/admin_index.ctp:18
+#: Template/FormRecords/admin_index.ctp:27 Template/Forms/admin_index.ctp:9
+#: Template/Pages/admin_index.ctp:21
+msgid "Шүүлт & хайлт"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:23 Template/Articles/admin_index.ctp:34
+#: Template/Banners/admin_index.ctp:25 Template/Branches/admin_index.ctp:23
+#: Template/Faqs/admin_index.ctp:23 Template/Notifications/admin_index.ctp:21
+#: Template/Pages/admin_index.ctp:26
+msgid "Хайх үгээ бичнэ үү"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:27;30 Template/Articles/admin_index.ctp:50;63
+#: Template/Branches/branches.ctp:37;88
+#: Template/FinanceReports/admin_index.ctp:22 Template/Pages/admin_index.ctp:40
+#: Template/Products/admin_index.ctp:87
+msgid "Бүгд"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:61 Template/Applications/admin_index.ctp:63
+#: Template/Articles/admin_index.ctp:96 Template/Banners/admin_index.ctp:63
+#: Template/Branches/admin_index.ctp:91 Template/Extends/site_meta.ctp:40
+#: Template/Faqs/admin_index.ctp:46 Template/FinanceReports/admin_index.ctp:51
+#: Template/FormRecords/admin_index.ctp:64 Template/Forms/admin_index.ctp:33
+#: Template/Pages/admin_index.ctp:68
+msgid "Үйлдэл"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:83 Template/Articles/admin_index.ctp:136
+#: Template/Categories/admin_index.ctp:32 Template/Extends/site_meta.ctp:71
+#: Template/Menus/admin_index.ctp:39 Template/Pages/admin_index.ctp:98
+#: Template/Products/admin_index.ctp:41
+msgid "Засах"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:84 Template/Applications/admin_index.ctp:91
+#: Template/Articles/admin_index.ctp:132;138
+#: Template/Categories/admin_index.ctp:29 Template/Menus/admin_index.ctp:41
+#: Template/Pages/admin_index.ctp:94;100
+#: Template/Products/admin_index.ctp:38;40
+msgid "Устгах"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:84 Template/Applications/admin_index.ctp:91
+#: Template/Articles/admin_index.ctp:132;138
+#: Template/Pages/admin_index.ctp:94;100
+msgid "Та \"{0}\"-ийг устгахдаа итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/AppUsers/index.ctp:92 Template/Applications/admin_index.ctp:99
+#: Template/Articles/admin_index.ctp:147 Template/Banners/admin_index.ctp:124
+#: Template/Branches/admin_index.ctp:121 Template/Categories/admin_index.ctp:77
+#: Template/Dashboard/admin_index.ctp:100 Template/Faqs/admin_index.ctp:77
+#: Template/FinanceReports/admin_index.ctp:75
+#: Template/FormRecords/admin_index.ctp:105 Template/Forms/admin_index.ctp:76
+#: Template/Menus/admin_index.ctp:87 Template/Pages/admin_index.ctp:109
+#: Template/Products/admin_index.ctp:111
+msgid "Мэдээлэл байхгүй байна"
+msgstr ""
+
+#: Template/AppUsers/login.ctp:31
+msgid "Нэвтрэн орох"
+msgstr ""
+
+#: Template/AppUsers/login.ctp:37
+#: Template/AppUsers/request_reset_password.ctp:7
+msgid "Нууц үгээ мартсан?"
+msgstr ""
+
+#: Template/AppUsers/login.ctp:52
+msgid " Намайг сана"
+msgstr ""
+
+#: Template/AppUsers/request_reset_password.ctp:10
+msgid "Имэйл хаягаа оруулна уу"
+msgstr ""
+
+#: Template/AppUsers/request_reset_password.ctp:14
+msgid "Нууц үг сэргээх"
+msgstr ""
+
+#: Template/AppUsers/view.ctp:38 Template/Extends/site_meta.ctp:104
+msgid "Мэдээлэл"
+msgstr ""
+
+#: Template/AppUsers/view.ctp:45 Template/Banners/admin_crud.ctp:95
+#: Template/Branches/admin_crud.ctp:122 Template/Categories/admin_index.ctp:95
+#: Template/FinanceReports/admin_crud.ctp:35 Template/Forms/admin_crud.ctp:112
+#: Template/Menus/admin_index.ctp:103 View/Helper/AppViewHelper.php:58
+msgid "Идэвхтэй"
+msgstr ""
+
+#: Template/AppUsers/view.ctp:45 View/Helper/AppViewHelper.php:55
+msgid "Идэвхгүй"
+msgstr ""
+
+#: Template/AppUsers/view.ctp:46
+msgid "Төлөв"
+msgstr ""
+
+#: Template/AppUsers/view.ctp:106
+msgid "Сүүлийн үйлдлүүд"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:34
+msgid "Овог, нэр, ажлын байр"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:36;119
+#: Template/Banners/admin_crud.ctp:102
+#: Template/FormRecords/admin_index.ctp:34;126
+msgid "Эхлэх огноо"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:38;121
+#: Template/Banners/admin_crud.ctp:106
+#: Template/FormRecords/admin_index.ctp:36;128
+msgid "Дуусах огноо"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:56
+#: Template/Articles/admin_index.ctp:85 Template/Pages/admin_index.ctp:62
+#: Template/Pages/calculation.ctp:281
+msgid "#"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:57
+msgid "Овгоор эрэмблэх"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:57 Template/Pages/hr_anket.ctp:304
+msgid "Овог"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:58 Template/Pages/admin_index.ctp:64
+msgid "Нэрээр эрэмблэх"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:58
+#: Template/Categories/admin_index.ctp:102;119
+#: Template/Element/products/product_form.ctp:3
+#: Template/Element/site/ebank_login.ctp:19
+#: Template/Extends/site_meta.ctp:37;99 Template/Menus/admin_index.ctp:112
+#: Template/Pages/admin_edit.ctp:42 Template/Pages/admin_index.ctp:64
+#: Template/Pages/hr_anket.ctp:310
+msgid "Нэр"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:59
+msgid "Имэйлээр эрэмблэх"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:60
+msgid "Ирсэн огноогоор эрэмблэх"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:60
+#: Template/Articles/admin_index.ctp:95 Template/Currencies/rates.ctp:30
+#: Template/Pages/calculation.ctp:282
+#: Template/Pages/calculation_savings.ctp:152;166
+msgid "Огноо"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:61;62
+msgid "Эрэмблэх"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:61
+msgid "Сонирхож буй ажлын байр"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:62
+msgid "Ажилд орох боломжтой огноо"
+msgstr ""
+
+#: Template/Applications/admin_index.ctp:90
+#: Template/FormRecords/admin_index.ctp:99 Template/Forms/admin_index.ctp:67
+msgid "Харах"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:10;25
+msgid "Ажилд орохыг хүсэгчийн анкет"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:16
+#: Template/FormRecords/admin_view.ctp:17
+msgid "Хэвлэх"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:30 Template/Pages/hr_anket.ctp:281
+msgid "Хувийн мэдээлэл"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:208 Template/Pages/hr_anket.ctp:484
+msgid "голч дүн"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:209 Template/Pages/hr_anket.ctp:485
+msgid "хувь"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:242 Template/Pages/hr_anket.ctp:536
+msgid "Муу"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:243;364
+#: Template/Pages/hr_anket.ctp:535;673
+msgid "Дунд"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:244 Template/Pages/hr_anket.ctp:534
+msgid "Сайн"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:245 Template/Pages/hr_anket.ctp:533
+msgid "Онц"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:282 Template/Pages/hr_anket.ctp:281;580
+msgid "Албан тушаал"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:283 Template/Pages/hr_anket.ctp:581
+msgid "Хаана, ямар байгууллагад"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:284 Template/Pages/hr_anket.ctp:582
+msgid "Ажилд орсон он/сар"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:285 Template/Pages/hr_anket.ctp:583
+msgid "Ажлаас гарсан он/сар"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:286
+msgid "Тухайн ажлын сарын орлого /цалин г.м/"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:287 Template/Pages/hr_anket.ctp:586
+msgid "Ажлаас гарсан шалтгаан"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:288 Template/Pages/hr_anket.ctp:587
+msgid "Удирдах албан тушаалтны нэр, утас"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:332 Template/Pages/hr_anket.ctp:412;637
+msgid "Эцгийн нэр, нэр"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:333 Template/Pages/hr_anket.ctp:638
+msgid "Эрхэлдэг ажил"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:334 Template/Pages/hr_anket.ctp:639
+msgid "Хаяг, утас"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:357 Template/Pages/hr_anket.ctp:666
+msgid "Гадаад хэл"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:358 Template/Pages/hr_anket.ctp:667
+msgid "Түвшин"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:359 Template/Pages/hr_anket.ctp:668
+msgid "Хугацаа"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:360
+#: Template/Categories/admin_index.ctp:17;130
+#: Template/Element/articles/article_form.ctp:37
+#: Template/Pages/admin_edit.ctp:70 Template/Pages/hr_anket.ctp:530;669;740
+msgid "Тайлбар"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:363 Template/Pages/hr_anket.ctp:672
+msgid "Анхан"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:365 Template/Pages/hr_anket.ctp:674
+msgid "Ахисан дунд"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:366 Template/Pages/hr_anket.ctp:675
+msgid "Гүнзгий"
+msgstr ""
+
+#: Template/Applications/admin_view.ctp:410 Template/Pages/hr_anket.ctp:734
+msgid ""
+"Та урьд өмнө ял шийтгэл эдлэж байсан уу? Эсвэл ямар нэг гэмт хэрэгт татагдан "
+"шалгагдаж байсан уу?"
+msgstr ""
+
+#: Template/Articles/admin_edit.ctp:16
+msgid "Нийтлэл"
+msgstr ""
+
+#: Template/Articles/admin_edit.ctp:19
+msgid "Autosave is disabled for published articles."
+msgstr "Нийтлэгдсэн нийтлэл нь автоматаар хадгалагдахгүй."
+
+#: Template/Articles/admin_edit.ctp:22 Template/Pages/admin_edit.ctp:19
+msgid "Автоматаар хадгалагдлаа"
+msgstr ""
+
+#: Template/Articles/admin_edit.ctp:23 Template/Pages/admin_edit.ctp:20
+msgid "Автоматаар хадгалахад алдаа гарлаа"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:39 Template/Banners/admin_index.ctp:33
+#: Template/Branches/admin_index.ctp:31;45;59 Template/Pages/admin_index.ctp:30
+msgid "БҮГД"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:40
+msgid "ОНЦЛОХ"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:41 Template/Pages/admin_index.ctp:32
+msgid "НООРОГ"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:42 Template/Pages/admin_index.ctp:33
+msgid "УСТГАСАН"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:46
+msgid "КАТЕГОРИ "
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:60 Template/Pages/admin_index.ctp:37
+msgid "ХЭЛ "
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:86 Template/Pages/admin_index.ctp:63
+msgid "Гарчигаар эрэмблэх"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:86 Template/Banners/admin_crud.ctp:30;34
+#: Template/Element/articles/article_form.ctp:18
+#: Template/Pages/admin_edit.ctp:53 Template/Pages/admin_index.ctp:63
+msgid "Гарчиг"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:87 Template/Pages/admin_index.ctp:65
+msgid "Хэлээр эрэмблэх"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:87 Template/Banners/admin_crud.ctp:110
+#: Template/FinanceReports/admin_crud.ctp:39 Template/Pages/admin_index.ctp:65
+msgid "Хэл"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:94
+msgid "Нийтлэгч"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:95
+msgid "Огноогоор эрэмблэх"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:110 Template/Pages/admin_index.ctp:79
+msgid "Гарчиггүй"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:113
+msgid "Article slug"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:134 Template/Pages/admin_index.ctp:96
+#: Template/Products/admin_index.ctp:37
+msgid "Сэргээх"
+msgstr ""
+
+#: Template/Articles/admin_index.ctp:134 Template/Pages/admin_index.ctp:96
+#: Template/Products/admin_index.ctp:37
+msgid "Та \"{0}\"-ийг сэргээхдээ итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:42;46
+msgid "Контент"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:52 Template/Categories/admin_index.ctp:107
+msgid "Линк"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:58;62
+msgid "Линк текст"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:67
+msgid "Шинэ цонх нээнэ"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:99
+msgid "Хугацаагүй харагдна"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:114
+msgid "Дараалал"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:118
+#: Template/FinanceReports/admin_crud.ctp:51
+msgid "Төрөл"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:127
+msgid "Давтамж"
+msgstr ""
+
+#: Template/Banners/admin_crud.ctp:131
+msgid "Хүлээх хугацаа"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:19
+msgid "Banners"
+msgstr "Баннер"
+
+#: Template/Banners/admin_index.ctp:30 Template/Branches/admin_index.ctp:42
+msgid "ТӨРӨЛ"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:59
+#, fuzzy
+#| msgid "Banners"
+msgid "Banner"
+msgstr "Баннер"
+
+#: Template/Banners/admin_index.ctp:60 Template/Faqs/admin_index.ctp:44
+#: Template/Forms/admin_index.ctp:29
+msgid "Locations"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:61
+msgid "Info"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:62
+msgid "Detail"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:84 Template/Faqs/admin_index.ctp:58
+#: Template/Forms/admin_index.ctp:46
+msgid "Page"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:88 Template/Faqs/admin_index.ctp:62
+#: Template/Forms/admin_index.ctp:50
+msgid "Product"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:93 Template/Branches/admin_crud.ctp:29
+#: Template/Branches/admin_index.ctp:87
+#: Template/FinanceReports/admin_index.ctp:49 Template/Forms/admin_crud.ctp:62
+msgid "Type"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:96
+#: Template/FinanceReports/admin_index.ctp:48 Template/Forms/admin_crud.ctp:115
+msgid "Language"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:99
+msgid "Duration"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:101
+msgid "Never end"
+msgstr ""
+
+#: Template/Banners/admin_index.ctp:106
+#: Template/Notifications/admin_index.ctp:135
+msgid "Link"
+msgstr "Линк"
+
+#: Template/Banners/admin_index.ctp:116 Template/Branches/admin_index.ctp:113
+#: Template/Faqs/admin_index.ctp:69 Template/FinanceReports/admin_index.ctp:67
+#: Template/Forms/admin_index.ctp:68
+msgid "Edit"
+msgstr "Засах"
+
+#: Template/Banners/admin_index.ctp:117 Template/Branches/admin_index.ctp:114
+#: Template/Faqs/admin_index.ctp:70 Template/FinanceReports/admin_index.ctp:68
+#: Template/Forms/admin_index.ctp:69
+msgid "Delete"
+msgstr "Устгах"
+
+#: Template/Banners/admin_index.ctp:117 Template/Branches/admin_index.ctp:114
+#: Template/Faqs/admin_index.ctp:70 Template/FinanceReports/admin_index.ctp:68
+#: Template/Forms/admin_index.ctp:69
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Та {0} үүнийг устгахдаа итгэлтэй байна уу?"
+
+#: Template/Banners/admin_view.ctp:9 Template/Forms/admin_view.ctp:8
+msgid "Form preview"
+msgstr ""
+
+#: Template/Banners/admin_view.ctp:10 Template/Forms/admin_view.ctp:9
+msgid ""
+"This is just for preview. The form will have different design according to "
+"the site template."
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:25 Template/Branches/admin_index.ctp:86
+msgid "Area"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:37;41 Template/Branches/admin_index.ctp:85
+#: Template/Forms/admin_crud.ctp:28 Template/Forms/admin_index.ctp:27
+msgid "Name"
+msgstr "Нэр"
+
+#: Template/Branches/admin_crud.ctp:49 Template/Branches/admin_index.ctp:89
+msgid "Address"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:53
+msgid "Address En"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:61 Template/Branches/admin_index.ctp:90
+msgid "Timetable"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:65
+msgid "Timetable En"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:71
+msgid "Ажиллах өдрүүдийг сонгоно уу"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:74
+msgid "Mon"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:78
+msgid "Tue"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:82
+msgid "Wed"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:86
+msgid "Thu"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:91
+msgid "Fri"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:95
+msgid "Sat"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:99
+msgid "Sun"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:111
+msgid "Click on the map or just drag and drop the marker to change location."
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:125 Template/Branches/admin_index.ctp:88
+msgid "Work Days"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:130
+msgid "Open time"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:134
+msgid "Close time"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:138
+msgid "Phone"
+msgstr ""
+
+#: Template/Branches/admin_crud.ctp:142 Template/Forms/admin_index.ctp:30
+msgid "Email"
+msgstr "Имэйл"
+
+#: Template/Branches/admin_index.ctp:17
+msgid "Branches"
+msgstr ""
+
+#: Template/Branches/admin_index.ctp:28
+msgid "БАЙРЛАЛ"
+msgstr ""
+
+#: Template/Branches/admin_index.ctp:56
+msgid "АЖИЛЛАХ ЦАГ"
+msgstr ""
+
+#: Template/Branches/admin_index.ctp:85;86;87;88;89;90
+#: Template/Faqs/admin_index.ctp:42;43;45
+#: Template/FinanceReports/admin_index.ctp:46;47;48;49;50
+#: Template/FormRecords/admin_index.ctp:59;60;61;62
+#: Template/Forms/admin_index.ctp:27;28;30
+#: Template/Notifications/admin_index.ctp:46;47;48;49;50
+#: View/Helper/AppViewHelper.php:50
+msgid "Order by"
+msgstr ""
+
+#: Template/Branches/branches.ctp:6
+msgid "Салбар нэгжүүд, АТМ"
+msgstr ""
+
+#: Template/Branches/branches.ctp:40
+msgid "Салбарууд"
+msgstr ""
+
+#: Template/Branches/branches.ctp:43
+msgid "АТМ"
+msgstr ""
+
+#: Template/Branches/branches.ctp:52;80
+msgid "Харагдах байдал"
+msgstr ""
+
+#: Template/Branches/branches.ctp:53;81
+msgid "Газрын зургаар"
+msgstr ""
+
+#: Template/Branches/branches.ctp:55;83
+msgid "Жагсаалтаар"
+msgstr ""
+
+#: Template/Branches/branches.ctp:59
+msgid "Байршил"
+msgstr ""
+
+#: Template/Branches/branches.ctp:61;64
+msgid "Ulaanbaatar"
+msgstr "Улаанбаатар"
+
+#: Template/Branches/branches.ctp:75;98
+msgid "эсвэл"
+msgstr ""
+
+#: Template/Branches/branches.ctp:76
+msgid "Надад ойр"
+msgstr ""
+
+#: Template/Branches/branches.ctp:86
+msgid "Ажиллах хуваарь"
+msgstr ""
+
+#: Template/Branches/branches.ctp:99
+msgid "Яг одоо нээлттэй"
+msgstr ""
+
+#: Template/Branches/branches.ctp:105
+msgid "Нээлттэй"
+msgstr ""
+
+#: Template/Branches/branches.ctp:109
+msgid "Хаалттай"
+msgstr ""
+
+#: Template/Branches/branches.ctp:122
+msgid ""
+"Уучлаарай хайлтын үр дүн хоосон байна. Та бидэнтэй дараах утсаар холбогдож "
+"мэдээлэл авна."
+msgstr ""
+
+#: Template/Branches/branches.ctp:124;150;187;368
+msgid "Утас"
+msgstr ""
+
+#: Template/Branches/branches.ctp:133
+msgid "Танд хамгийн ойр салбар"
+msgstr ""
+
+#: Template/Branches/branches.ctp:155;192
+msgid "Цахим шуудан"
+msgstr ""
+
+#: Template/Branches/branches.ctp:229
+#: Template/Element/site/user_help_bottom.ctp:74
+msgid "Уучлаарай таны байрлалын мэдээллийг авах боломжгүй байна."
+msgstr ""
+
+#: Template/Branches/branches.ctp:286
+msgid "Таны байрлал"
+msgstr ""
+
+#: Template/Branches/branches.ctp:448
+msgid "Танд хамгийн ойр байрлах АТМ"
+msgstr ""
+
+#: Template/Branches/branches.ctp:450
+msgid "Танд хамгийн ойр байрлах салбар"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:29
+msgid "Та {0} категорийг устгах гэж байна уу?"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:53
+msgid "Категориуд"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:54
+msgid "Нийтлэлийн категорууд"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:104
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:113
+msgid ""
+"The 'slug' is the URL-friendly version of the name. It must be all lowercase "
+"and contains only letters, numbers, and hyphens(-)."
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:119
+msgid "(Англи)"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:121
+msgid "The name is how it appears on your English site."
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:124 Template/Menus/admin_index.ctp:116
+msgid "Эцэг"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:125 Template/Menus/admin_index.ctp:117
+msgid "Эцэггүй"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:126
+msgid ""
+"You might have a Music category, and under that have children categories for "
+"Rock and HipHop."
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:137 Template/Extends/site_meta.ctp:119
+#: Template/Menus/admin_index.ctp:165
+msgid "Шинээр нэмэх"
+msgstr ""
+
+#: Template/Categories/admin_index.ctp:140 Template/Extends/site_meta.ctp:122
+#: Template/FormRecords/admin_view.ctp:143 Template/Menus/admin_index.ctp:168
+#: Template/Notifications/admin_index.ctp:145
+msgid "Хадгалах"
+msgstr ""
+
+#: Template/Cell/Extend/display.ctp:58
+msgid "Гомдол Мэдээлэл"
+msgstr ""
+
+#: Template/Cell/Extend/display.ctp:61
+msgid "Шилэн Данс"
+msgstr ""
+
+#: Template/Cell/Extend/display.ctp:65
+msgid "Та манай сайтын"
+msgstr ""
+
+#: Template/Cell/Extend/display.ctp:71
+msgid "дахь зочин боллоо."
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:43 Template/Currencies/admin_index.ctp:45
+#: Template/Currencies/rates.ctp:43
+msgid "Валют"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:44 Template/Currencies/admin_index.ctp:46
+#: Template/Currencies/rates.ctp:87
+msgid "Албан ханш"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:45 Template/Currencies/admin_index.ctp:47
+#: Template/Currencies/rates.ctp:39
+msgid "Бэлэн"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:46 Template/Currencies/admin_index.ctp:48
+#: Template/Currencies/rates.ctp:40
+msgid "Бэлэн бус"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:49;51
+#: Template/Currencies/admin_index.ctp:51;53
+#: Template/Currencies/rates.ctp:46;48;89;255
+msgid "Авах"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:50;52
+#: Template/Currencies/admin_index.ctp:52;54
+#: Template/Currencies/rates.ctp:47;49;91;268
+msgid "Зарах"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:97
+msgid "Select date"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:104
+#: Template/Currencies/admin_index.ctp:98
+#: Template/FormRecords/admin_index.ctp:59
+msgid "Date"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:113
+msgid "Import data from excel"
+msgstr ""
+
+#: Template/Currencies/admin_crud.ctp:122
+msgid "Import"
+msgstr ""
+
+#: Template/Currencies/admin_index.ctp:90
+msgid "Archives"
+msgstr ""
+
+#: Template/Currencies/admin_index.ctp:103
+msgid "Архив харах"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:14
+msgid "Валютын ханш"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:26 Template/Pages/home.ctp:75
+msgid "Ханшийн мэдээ"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:31
+msgid "Харуулах"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:44
+msgid "Өөрчлөлт"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:45
+msgid "Монгол Банк"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:68
+msgid "Ханш сүүлийн 7 хоногоор"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:84 Template/Element/site/header.ctp:12
+msgid "Ханш хөрвүүлэгч"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:94
+msgid "Хөрвүүлэх нэгж"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:97;111
+msgid "Төгрөг"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:104;118
+msgid "Дүн"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:108
+msgid "Хөрвөх нэгж"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:123
+msgid "Ханшийн харьцуулалт"
+msgstr ""
+
+#: Template/Currencies/rates.ctp:125
+msgid "{0} ханшаар бодов"
+msgstr ""
+
+#: Template/Dashboard/admin_index.ctp:36
+msgid "User log"
+msgstr ""
+
+#: Template/Dashboard/admin_index.ctp:49
+msgid "Хэзээ"
+msgstr ""
+
+#: Template/Dashboard/admin_index.ctp:50
+msgid "Хэн"
+msgstr ""
+
+#: Template/Dashboard/admin_index.ctp:51
+msgid "Үйл явдал"
+msgstr ""
+
+#: Template/Element/articles/article.ctp:13
+#: Template/Element/articles/articles_grid.ctp:22
+#: Template/Element/products/related_rect.ctp:18
+#: Template/Element/products/related_rect_orange.ctp:19
+#: Template/Element/products/related_rect_tall.ctp:14;32
+#: Template/Element/products/related_square_blue.ctp:7
+#: Template/Element/products/related_square_orange.ctp:11
+#: Template/Element/site/user_help_bottom.ctp:48 Template/Pages/home.ctp:65;113
+#: Template/Products/compare.ctp:87;134 Template/Products/list.ctp:87
+msgid "Дэлгэрэнгүй"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:27
+#: Template/Pages/admin_edit.ctp:58
+msgid "Slug"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:30
+#: Template/Pages/admin_edit.ctp:61
+msgid ""
+"The 'slug' is the URL-friendly version of the title. It must be all "
+"lowercase and contains only letters, numbers, and hyphens(-)."
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:32
+#: Template/Pages/admin_edit.ctp:63
+msgid "Permalink"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:52
+msgid "Нийтлэгдсэн"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:85
+msgid "Ковер зураг оруулах"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:90
+#: Template/Element/filemanager/image_load_js.ctp:23
+msgid "Зураг устгах"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:99
+#: Template/Products/admin_crud.ctp:102
+msgid "Зургийн хэмжээ 5MB аас бага байх ёстой"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:103
+msgid ""
+"Мэдээний ковер зурагны өргөн 360 аас багагүй, өндөр 240 аас багагүй байх "
+"ёстой"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:107
+#: Template/Element/filemanager/image_load_js.ctp:43
+msgid "Сонгосон файл зураг биш байна!"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:136
+msgid "Нүүр хуудсанд харагдах хэсгийг сонгоно уу"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:147
+msgid "Гар утсан дээр харуулахгүй"
+msgstr ""
+
+#: Template/Element/articles/article_form.ctp:151
+msgid "Үүсгэсэн огноо"
+msgstr ""
+
+#: Template/Element/articles/article_form_js.ctp:33
+msgid "Та нийтлэлээ энд дараад бичиж эхэлнэ үү"
+msgstr ""
+
+#: Template/Element/articles/article_paginate_js.ctp:6
+msgid "Please wait"
+msgstr "Түр хүлээнэ үү"
+
+#: Template/Element/cms/empty.ctp:3
+msgid "No information."
+msgstr ""
+
+#: Template/Element/cms/header.ctp:24
+msgid "Сайт сонгох"
+msgstr ""
+
+#: Template/Element/cms/header.ctp:27
+msgid "Сайт"
+msgstr ""
+
+#: Template/Element/cms/header.ctp:39
+msgid "Сайт руу очих"
+msgstr ""
+
+#: Template/Element/cms/header.ctp:43 Template/Extends/site_meta.ctp:17
+msgid "Зураг"
+msgstr ""
+
+#: Template/Element/cms/header.ctp:47
+msgid "Миний профайл"
+msgstr ""
+
+#: Template/Element/cms/header.ctp:49
+msgid "Гарах"
+msgstr ""
+
+#: Template/Element/cms/revision_count.ctp:17
+msgid "Revisions"
+msgstr ""
+
+#: Template/Element/cms/revision_count.ctp:19
+msgid "Browse"
+msgstr ""
+
+#: Template/Element/cms/sidemenu.ctp:32;35
+msgid "Admin Menu"
+msgstr ""
+
+#: Template/Element/cms/user_photo_js.ctp:98
+msgid "Chosen file isn't an image!"
+msgstr "Сонгосон файл зураг биш байна!"
+
+#: Template/Element/currencies/table_rows.ctp:5
+msgid "Ханш бүртгэгдээгүй байна."
+msgstr ""
+
+#: Template/Element/filemanager/cropper_init_js.ctp:13
+msgid "Select cover image"
+msgstr ""
+
+#: Template/Element/filemanager/cropper_init_js.ctp:14
+msgid "Delete cover image"
+msgstr ""
+
+#: Template/Element/filemanager/cropper_init_js.ctp:21
+msgid "Image is too big. Please resize it down (must be less than {0}x{1})"
+msgstr ""
+
+#: Template/Element/filemanager/cropper_init_js.ctp:25
+#: Template/Element/filemanager/image_load_js.ctp:31
+msgid "Зургийн хэмжээ {0} KB аас бага байх ёстой"
+msgstr ""
+
+#: Template/Element/filemanager/cropper_init_js.ctp:29
+msgid "Зурагны өргөн {0} аас багагүй, өндөр {1} аас багагүй байх ёстой"
+msgstr ""
+
+#: Template/Element/filemanager/file_load_js.ctp:15
+msgid "Файл оруулах"
+msgstr ""
+
+#: Template/Element/filemanager/file_load_js.ctp:21
+msgid "Файл устгах"
+msgstr ""
+
+#: Template/Element/filemanager/file_load_js.ctp:25
+msgid "Файлын хэмжээ {0} KB аас бага байх ёстой"
+msgstr ""
+
+#: Template/Element/filemanager/file_load_js.ctp:29
+msgid "Сонгосон файл буруу байна!"
+msgstr ""
+
+#: Template/Element/filemanager/image_load_js.ctp:18
+msgid "Зураг оруулах"
+msgstr ""
+
+#: Template/Element/filemanager/image_load_js.ctp:35
+msgid "Зургийн өргөн {0} аас багагүй байх ёстой"
+msgstr ""
+
+#: Template/Element/filemanager/image_load_js.ctp:39
+msgid "Зургийн өндөр {0} аас багагүй байх ёстой"
+msgstr ""
+
+#: Template/Element/locations/show_on_pages.ctp:2
+msgid "Show on Pages"
+msgstr ""
+
+#: Template/Element/locations/show_on_products.ctp:2
+msgid "Show on Products"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:9
+msgid "Дэд гарчиг"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:15
+msgid "Товч тайлбар"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:21
+msgid "Call to action link text"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:25
+msgid "Call to action link"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:38
+msgid "Бүтээгдэхүүний товч болон харицуулах мэдээллүүд"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:44
+msgid "Холбоотой бүтээгдэхүүнүүд"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:47
+msgid "Холбоотой бүтээгдэхүүн харуулах хэсгийн гарчиг"
+msgstr ""
+
+#: Template/Element/products/product_form.ctp:48
+msgid "Санал болгох бүтээгдэхүүн"
+msgstr ""
+
+#: Template/Element/site/crumb.ctp:29 Template/Products/compare.ctp:9
+msgid "Харьцуулалт"
+msgstr ""
+
+#: Template/Element/site/ebank_login.ctp:13
+#: Template/Element/site/header.ctp:5;67
+#: Template/Element/site/user_help_bottom.ctp:45
+msgid "Интернэт банк"
+msgstr ""
+
+#: Template/Element/site/ebank_login.ctp:14
+msgid "Мерчант"
+msgstr ""
+
+#: Template/Element/site/ebank_login.ctp:39
+#: Template/Element/site/user_help_bottom.ctp:49
+msgid "Нэвтрэх"
+msgstr ""
+
+#: Template/Element/site/faq.ctp:21
+msgid "Бусад нийтлэг асуултуудыг харах "
+msgstr ""
+
+#: Template/Element/site/footer.ctp:9;28;31
+#: Template/Element/site/header.ctp:101
+msgid "XacBank"
+msgstr ""
+
+#: Template/Element/site/footer.ctp:16
+msgid "Хайлт хийх"
+msgstr ""
+
+#: Template/Element/site/footer.ctp:26
+msgid "ХасБанк апп татах:"
+msgstr ""
+
+#: Template/Element/site/footer.ctp:54
+msgid "ХасБанк"
+msgstr ""
+
+#: Template/Element/site/form.ctp:87 Template/Pages/hr_anket.ctp:58
+msgid "Та мэдээллээ оруулна уу."
+msgstr ""
+
+#: Template/Element/site/form.ctp:89 Template/Pages/hr_anket.ctp:59
+msgid "Та сонголтоо хийнэ үү."
+msgstr ""
+
+#: Template/Element/site/form.ctp:94 Template/Pages/hr_anket.ctp:92
+msgid "Имэйл хаяг буруу байна."
+msgstr ""
+
+#: Template/Element/site/form.ctp:120 Template/Pages/hr_anket.ctp:26
+msgid "Сонгоно уу"
+msgstr ""
+
+#: Template/Element/site/form.ctp:245;262 Template/Pages/hr_anket.ctp:918;935
+msgid "Та энэхүү хүсэлтийг бөглөхийн тулд интернэт хөтөчөө шинэчлэнэ үү."
+msgstr ""
+
+#: Template/Element/site/form.ctp:253 Template/Pages/hr_anket.ctp:926
+msgid "Хавсралт файлын хэмжээ %s MB аас ихгүй байх ёстой."
+msgstr ""
+
+#: Template/Element/site/form.ctp:277 Template/Pages/hr_anket.ctp:950
+msgid "Буруу өргөтгөлтэй файл байна."
+msgstr ""
+
+#: Template/Element/site/header.ctp:10 Template/Pages/calculation_loan.ctp:14
+#: Template/Pages/calculation_savings.ctp:17
+msgid "Тооцоолуур"
+msgstr ""
+
+#: Template/Element/site/header.ctp:11
+msgid "ATM, Байршил"
+msgstr ""
+
+#: Template/Element/site/header.ctp:18
+msgid "Фэйсбүүк"
+msgstr ""
+
+#: Template/Element/site/header.ctp:18
+msgid "Твиттер"
+msgstr ""
+
+#: Template/Element/site/header.ctp:18
+msgid "Юүтюб"
+msgstr ""
+
+#: Template/Element/site/header.ctp:18
+msgid "Инстаграм"
+msgstr ""
+
+#: Template/Element/site/header.ctp:71
+#: Template/Element/site/online_chat.ctp:63;68
+msgid "Онлайн туслах"
+msgstr ""
+
+#: Template/Element/site/header.ctp:73;135
+#: Template/Element/site/user_help_bottom.ctp:32
+msgid "ATM, Салбарууд"
+msgstr ""
+
+#: Template/Element/site/header.ctp:106
+msgid "Банкны тухай"
+msgstr ""
+
+#: Template/Element/site/header.ctp:109
+msgid "ТэнГэр"
+msgstr ""
+
+#: Template/Element/site/header.ctp:109
+msgid "Санхүүгийн Нэгдэл"
+msgstr ""
+
+#: Template/Element/site/header.ctp:259
+msgid "Хайх зүйлээ бичнэ үү"
+msgstr ""
+
+#: Template/Element/site/pagination.ctp:4
+msgid "Дараах"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:8
+msgid "Харилцагчийн үйлчилгээний төв"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:10
+msgid "Лавлах утас"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:14
+msgid "Дотоод утас"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:20
+msgid "Харилцагчийн төв"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:33
+msgid "Тантай ойр байгаа салбар нэгжүүд"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:35
+msgid "Одоо ажиллаж байгаа"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:37
+msgid "Танд хамгийн ойр"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:46
+msgid "Онлайн банкны үйлчилгээ"
+msgstr ""
+
+#: Template/Element/site/user_help_bottom.ctp:50
+msgid "Бүртгүүлэх"
+msgstr ""
+
+#: Template/Element/tabbed_content/content.ctp:12
+msgid "Remove all tabs"
+msgstr ""
+
+#: Template/Element/tabbed_content/content.ctp:13
+msgid "Add more content"
+msgstr ""
+
+#: Template/Element/tabbed_content/content.ctp:41
+#: Template/Element/tabbed_content/js.ctp:51
+msgid "Remove this tab"
+msgstr ""
+
+#: Template/Element/tabbed_content/js.ctp:70
+#: Template/Element/tabbed_content/js_spec.ctp:82
+msgid "Та энэ TAB-ыг хасах гэж байгаадаа итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Element/tabbed_content/js.ctp:70;108
+#: Template/Element/tabbed_content/js_spec.ctp:82;120
+#: Template/Faqs/admin_crud.ctp:170
+msgid "Буцаах боломжгүй болохыг анхаарна уу."
+msgstr ""
+
+#: Template/Element/tabbed_content/js.ctp:108
+#: Template/Element/tabbed_content/js_spec.ctp:120
+msgid "Та TABBED контентийг бүхлээр нь хасах гэж байгаадаа итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Element/tabbed_content/js_spec.ctp:63
+#: Template/Element/tabbed_content/specs.ctp:51
+msgid "Remove this spec"
+msgstr ""
+
+#: Template/Element/tabbed_content/specs.ctp:12
+msgid "Remove all specs"
+msgstr ""
+
+#: Template/Element/tabbed_content/specs.ctp:13
+msgid "Add spec content"
+msgstr ""
+
+#: Template/Error/error400.ctp:46
+msgid "Алдаатай хүсэлт"
+msgstr ""
+
+#: Template/Error/error400.ctp:48
+msgid "Уучлаарай"
+msgstr ""
+
+#: Template/Error/error400.ctp:52
+msgid "Таны орохыг хүссэн %s хуудас олдсонгүй."
+msgstr ""
+
+#: Template/Error/error400.ctp:56 Template/Error/error500.ctp:54
+msgid "Эхлэл хэсэг рүү буцах"
+msgstr ""
+
+#: Template/Error/error500.ctp:50
+msgid "Алдаа гарлаа"
+msgstr ""
+
+#: Template/Error/error500.ctp:52
+msgid "Уучлаарай алдаа гарсан тул та өөр хуудсаар зочилно уу."
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:11
+msgid "Сайтын мэдээллүүд"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:12
+msgid "Сайтад ашиглагдах текст, зураг, файлуудын бүртгэл"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:16
+msgid "Текст"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:18
+#: Template/Pages/hr_anket.ctp:751;762;770;778
+msgid "Файл"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:38
+msgid "Утга"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:39 Template/Pages/admin_index.ctp:67
+msgid "Сүүлд зассан"
+msgstr ""
+
+#: Template/Extends/site_meta.ctp:72
+msgid "Та итгэлтэй байна уу # {0}?"
+msgstr ""
+
+#: Template/Faqs/admin_crud.ctp:30;34 Template/Faqs/admin_index.ctp:42;43
+#: Template/Forms/admin_crud.ctp:33 Template/Forms/admin_index.ctp:28
+#: Template/Notifications/admin_index.ctp:127
+msgid "Title"
+msgstr ""
+
+#: Template/Faqs/admin_crud.ctp:43;62
+msgid "FAQs"
+msgstr ""
+
+#: Template/Faqs/admin_crud.ctp:170
+msgid ""
+"Та сүүлийн асуулт хариултын мэдээллийг устгах гэж байгаадаа итгэлтэй байна "
+"уу?"
+msgstr ""
+
+#: Template/Faqs/admin_index.ctp:17
+msgid "Faqs"
+msgstr ""
+
+#: Template/Faqs/admin_index.ctp:45 Template/FinanceReports/admin_index.ctp:50
+msgid "Last modified"
+msgstr ""
+
+#: Template/Faqs/admin_index.ctp:45 Template/FinanceReports/admin_index.ctp:50
+msgid "Modified"
+msgstr "Өөрчилсөн"
+
+#: Template/Faqs/view.ctp:2
+msgid "Нийтлэг асуултууд"
+msgstr ""
+
+#: Template/FinanceReports/admin_crud.ctp:43
+#: Template/Pages/finance_report.ctp:28
+msgid "Жил"
+msgstr ""
+
+#: Template/FinanceReports/admin_crud.ctp:47
+#: Template/Pages/finance_report.ctp:30
+msgid "Улирал"
+msgstr ""
+
+#: Template/FinanceReports/admin_index.ctp:13
+msgid "Financial reports"
+msgstr ""
+
+#: Template/FinanceReports/admin_index.ctp:19
+msgid "Төрөл "
+msgstr ""
+
+#: Template/FinanceReports/admin_index.ctp:46
+msgid "Year"
+msgstr ""
+
+#: Template/FinanceReports/admin_index.ctp:47
+msgid "Season"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:26
+msgid "Form Records"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:32
+msgid "Select form"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:60
+#: Template/FormRecords/admin_view.ctp:159
+msgid "Form name"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:60
+msgid "Form"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:61
+msgid "Source"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:61
+#: Template/FormRecords/admin_view.ctp:169
+msgid "Source page"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:62
+#: Template/FormRecords/admin_view.ctp:175
+msgid "Client IP"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:63
+#: Template/FormRecords/admin_view.ctp:122
+msgid "Авсан арга хэмжээ"
+msgstr ""
+
+#: Template/FormRecords/admin_index.ctp:77
+#: Template/FormRecords/admin_view.ctp:164
+msgid "Form might be deleted."
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:12
+msgid "Form record"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:29;34
+msgid "Хүсэлтийн мэдээлэл"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:124
+msgid "Арга хэмжээ авах"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:131
+msgid "Арга хэмжээ авсан хүний нэр"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:135
+msgid "Арга хэмжээ авсан огноо"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:140
+msgid "Авсан арга хэмжээг дэлгэрэнгүй бичнэ үү."
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:154
+msgid "Бусад мэдээлэл"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:166
+msgid "Талбаруудыг харах"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:177
+msgid "Submitted date"
+msgstr ""
+
+#: Template/FormRecords/admin_view.ctp:181
+msgid "View form"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:30
+msgid "The name will not be displayed in your site."
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:35
+msgid "The title is how it appears on your form."
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:38
+msgid "Формын толгой хэсэгт харагдах контент"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:38;101
+msgid "(хоосон байж болно)"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:48
+msgid "Success Message"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:50
+msgid "This message will be shown after successful form submission."
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:54
+msgid "Form fields"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:55
+msgid "Add field"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:61
+msgid "Label text"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:63
+msgid "Placeholder text"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:64
+msgid "Required"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:65
+msgid "Column"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:101
+msgid "Формын хөл хэсэгт харагдах контент"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:119
+msgid "Receive response to email"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:123
+msgid "Submit button text"
+msgstr ""
+
+#: Template/Forms/admin_crud.ctp:243
+msgid "Та итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Forms/admin_index.ctp:8
+msgid "Forms"
+msgstr ""
+
+#: Template/Forms/admin_index.ctp:31
+msgid "Fields"
+msgstr ""
+
+#: Template/Forms/admin_index.ctp:32
+msgid "Records"
+msgstr ""
+
+#: Template/Forms/admin_index.ctp:32
+msgid "Арга хэмжээ аваагүй/Бүгд"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:41
+msgid "Та {0} цэсийг устгах гэж байна уу?"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:59
+msgid "Сайтын цэс"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:60
+msgid "Сайтын монгол, англи цэсүүд"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:64
+msgid "Монгол"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:65
+msgid "Англи"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:126
+msgid "Холбоос"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:130
+msgid "Веб хуудас"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:135
+msgid "Веб линк"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:150
+msgid "Үндсэн цэсэнд харагдна"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:154
+msgid "Сайтын хөл хэсэгт харагдна"
+msgstr ""
+
+#: Template/Menus/admin_index.ctp:158
+msgid "Мобайл цэсэнд харагдна"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:15
+msgid "Notifications"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:16
+msgid "Total messageable users: "
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:46
+msgid "created"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:46
+msgid "Sent at"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:47
+msgid "title"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:47
+msgid "Message content"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:48
+msgid "sent to"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:48
+msgid "Sent to"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:49
+msgid "delivered"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:49
+msgid "Delivered"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:50
+msgid "clicked"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:50
+msgid "Clicked"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:51
+msgid "Sent by"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:52
+msgid "Duplicate"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:97
+msgid "Duplicate message"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:103
+msgid "Currently no notifications were sent."
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:131
+msgid "Message"
+msgstr ""
+
+#: Template/Notifications/admin_index.ctp:142 Template/Pages/hr_anket.ctp:799
+msgid "Илгээх"
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:16
+msgid "Autosave is disabled for active web pages."
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:55
+msgid "The title is how it appears on your site."
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:89 Template/Products/admin_crud.ctp:60
+msgid "Active"
+msgstr "Идэвхтэй"
+
+#: Template/Pages/admin_edit.ctp:93
+msgid "Загвар"
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:98
+msgid "Категори холбох"
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:99
+msgid "None"
+msgstr ""
+
+#: Template/Pages/admin_edit.ctp:100
+msgid "You might want to show some articles on the page."
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:20
+msgid "Вэб хуудсууд"
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:66
+msgid "Зассан хүний нэрээр эрэмблэх"
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:66
+msgid "Зассан"
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:67
+msgid "Сүүлд зассан огноогоор эрэмблэх"
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:82
+msgid "Page slug"
+msgstr ""
+
+#: Template/Pages/admin_index.ctp:84
+msgid "Нэргүй"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:10 Template/Pages/calculation_loan.ctp:40
+msgid "Зээлийн хэмжээ"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:15 Template/Pages/calculation_loan.ctp:48
+msgid "Зээлийн хугацаа (сараар)"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:20 Template/Pages/calculation_loan.ctp:53
+msgid "Зээлийн хүү ( жилээр )"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:25;272
+#: Template/Pages/calculation_loan.ctp:64;67
+msgid "Үндсэн төлбөр тэнцүү"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:26 Template/Pages/calculation_loan.ctp:95
+msgid "Эхний сарын төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:27;36;274
+msgid "Зээлийн хугацаанд төлөх нийт төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:28;37
+msgid "Зээлийн хугацаанд төлөх хүүгийн төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:34 Template/Pages/calculation_loan.ctp:68
+msgid "Нийт төлбөр тэнцүү"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:35 Template/Pages/calculation_loan.ctp:95
+msgid "Сар бүрийн төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:249 Template/Pages/calculation_loan.ctp:28
+#: Template/Pages/calculation_savings.ctp:31
+msgid "Хадгаламжийн тооцоолуур"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:252
+msgid "Эхний орлого"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:257
+msgid "Сар бүр хийх орлого"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:262
+msgid "Хугацаа/сар/"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:267
+msgid "Жилийн хүү"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:273
+msgid "Таны хуримтлуулсан мөнгө"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:275
+msgid "Цуглуулсан хүү дангаараа"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:276
+msgid "Бодит хүү"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:283
+#: Template/Pages/calculation_savings.ctp:153;167
+msgid "Хүү тооцсон хоног"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:284
+#: Template/Pages/calculation_loan.ctp:120;133
+#: Template/Pages/calculation_savings.ctp:154;168
+msgid "Бодогдсон хүү"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:285
+#: Template/Pages/calculation_savings.ctp:155;169
+msgid "Хадгалсан мөнгө"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:286
+#: Template/Pages/calculation_savings.ctp:156;170
+msgid "Нийт мөнгө"
+msgstr ""
+
+#: Template/Pages/calculation.ctp:287
+#: Template/Pages/calculation_savings.ctp:157;171
+msgid "Хуримтлагдсан хүү"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:31
+#: Template/Pages/calculation_savings.ctp:34
+msgid "Зээлийн тооцоолуур"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:62
+msgid "Зээлийн эргэн төлөлт"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:83
+msgid ""
+"Та <span class='text-orange'>{0}</span> хэмжээний төгрөгийн зээлийг жилийн "
+"<span class='text-orange'>{1}%</span>-ийн хүүтэйгээр <span class='text-"
+"orange'>{2}</span> сарын хугацаанд зээлэхэд сард <span class='text-"
+"orange'>{3}</span> төгрөг төлнө."
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:86
+msgid ""
+"Та <span class='text-orange'>{0}</span> хэмжээний төгрөгийн зээлийг жилийн "
+"<span class='text-orange'>{1}%</span>-ийн хүүтэйгээр <span class='text-"
+"orange'>{2}</span> сарын хугацаанд зээлэхэд эхний сард <span class='text-"
+"orange'>{3}</span> төгрөг төлж, сар бүр төлөх хэмжээ буурна."
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:96
+msgid "Зээлийн хугацаанд төлөх<br> нийт төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:97
+msgid "Зээлийн хугацаанд төлөх<br> хүүгийн төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:117;130
+msgid "Сар"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:118;131
+msgid "Зээлийн үлдэгдэл"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:119;132
+msgid "Үндсэн зээлийн төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation_loan.ctp:121;134
+msgid "Нийт төлбөр"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:43
+msgid "Данс нээх мөнгөн дүн"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:51
+msgid "Хадгаламжийн жилийн хүү"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:59
+msgid "Хугацаа (сараар)"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:64
+msgid "Сар бүр нэмж хийх мөнгөн дүн"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:108
+msgid ""
+"Та <span class='text-orange'>{0}</span> хэмжээний төгрөгийг сар бүр <span "
+"class='text-orange'>{1}</span> төгрөг дансанд нэмэгдэх орлоготой, жилийн "
+"<span class='text-orange'>{2}%</span>-ийн хүүтэйгээр хадгалуулснаар, <span "
+"class='text-orange'>{3}</span> сарын дараа таны хадгаламж <span class='text-"
+"orange'>{4}</span> болж өснө."
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:116
+msgid "Нийт мөнгөн дүн"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:117
+msgid "Хуримтлуулсан мөнгө"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:118
+msgid "Цуглуулсан хүү"
+msgstr ""
+
+#: Template/Pages/calculation_savings.ctp:139
+msgid "Хадгаламжийн график"
+msgstr ""
+
+#: Template/Pages/finance_report.ctp:96
+msgid "Уучлаарай, алдаа гарлаа."
+msgstr ""
+
+#: Template/Pages/home.ctp:57
+msgid "Онцлох бүтээгдэхүүн"
+msgstr ""
+
+#: Template/Pages/home.ctp:102
+msgid "авах"
+msgstr ""
+
+#: Template/Pages/home.ctp:104
+msgid "зарах"
+msgstr ""
+
+#: Template/Pages/home.ctp:125
+msgid "Бүх мэдээ үзэх"
+msgstr ""
+
+#: Template/Pages/home.ctp:126 Template/Pages/search.ctp:12
+msgid "Мэдээ, мэдээлэл"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:27
+msgid "Тийм"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:28
+msgid "Үгүй"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:36
+msgid "Мөр нэмэх"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:37
+msgid "Мөр хасах"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:272
+msgid "Бүх ажлын байр"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:281
+msgid "Боловсрол"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:281
+msgid "Ажлын туршлага"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:281 Template/Pages/search.ctp:17
+msgid "Бусад"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:298
+msgid "Ургийн овог"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:316
+msgid "Байнгын оршин суугаа хаяг"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:322
+msgid "Гар утас"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:331
+msgid "Гэрийн утас"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:340
+msgid "Ажлын утас"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:349
+msgid "Имэйл хаяг"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:358
+msgid "Шаардлагатай үед дамжуулан холбоо барих хүний овог, нэр, утасны дугаар"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:364
+msgid "Хүйс"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:366
+msgid "эм"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:366
+msgid "эр"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:370
+msgid "Төрсөн огноо"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:379
+msgid "Регистрийн дугаар"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:385
+msgid "Таны найз, эсвэл төрөл садан ХасБанкинд ажилладаг эсэх:"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:392
+msgid "Тийм бол хэн, аль салбар/хэлтэст"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:398
+msgid "Гэр бүлийн байдал"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:400
+msgid "Ам бүлийн тоо"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:411
+msgid "Таны хэн болох"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:413
+msgid "Нас"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:414
+msgid "Одоо эрхэлж байгаа ажил"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:415
+msgid "Холбоо барих утас"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:439
+msgid ""
+"Ямар чиглэлээр, эсхүл албан тушаал, салбарт ажиллах сонирхолтой байна вэ? /"
+"хамгийн чухлаас нь дараалуулж бичнэ үү/. Аль орон нутагт?"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:451
+msgid "Таны хүсч буй цалин хүлээлт"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:455
+msgid "Ажилд орох боломжтой өдөр"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:470
+msgid "Төгссөн сургуулийн мэдээлэл"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:475
+msgid "Сургуулийн төрөл"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:476
+msgid "Сургуулийн Нэр"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:477
+msgid "Суралцсан хугацаа"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:478
+msgid "Төгссөн он"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:479
+msgid "Сурлагын үнэлгээ"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:480
+msgid "Эзэмшсэн мэргэжил, боловсролын зэрэг"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:481
+msgid "Төлбөрөө төлсөн хэлбэр /тэтгэлэг, зээл, хувиараа/"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:522
+msgid "Компьютер дээр ажиллах чадвар"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:528
+msgid "Компьютерийн програмын нэр"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:529
+msgid "Ажиллах чадвар"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:574
+msgid ""
+"Одоогийн эсхүл хамгийн сүүлд хийж байсан ажил/албан тушаалаас эхэлж бичнэ үү"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:584
+msgid ""
+"Тухайн ажлын сарын орлого\n"
+"/цалин г.м/"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:620
+msgid "Та удаан хугацаагаар ажилгүй байсан бол тайлбар өгнө үү"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:631
+msgid "Таны мэдлэг чадвар болон бусад зүйлийн талаар тодорхойлох 2 хүн:"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:660
+msgid "Гадаад хэлний мэдлэг"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:710
+msgid "ХасБанкинд ажлын орон тоо гарсан тухай мэдээллийг хаанаас авсан бэ?"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:728
+msgid ""
+"Та өөрийнхөө талаар нэмэлт мэдээлэл байвал өгнө үү! (Сонгуульт ажил, "
+"эзэмшиж, мэргэшсэн чадварууд, онцгой авьяас чадвар,  сонирхол, алдар цол "
+"өргөмжлөл, давхар эрхэлдэг ажил,  г. м.)"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:745
+msgid "Хавсралт"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:748
+msgid "Цээж зураг"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:759
+msgid "Дипломын хуулбар"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:790
+msgid ""
+"Ажилд орохыг хүссэн миний талаарх мэдээллийг ХасБанкны зүгээс тодруулах "
+"эрхийг хүлээн зөвшөөрч байна. Мөн худал мэдээлэл өгч эсхүл нуун дарагдуулж "
+"ажилд орсноор ажлаас халагдана гэдгийг хүлээн зөвшөөрч байгаа бөгөөд гомдол "
+"гаргахгүй байх болно."
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:798
+msgid "Үргэлжлүүлэх"
+msgstr ""
+
+#: Template/Pages/hr_anket.ctp:995
+msgid "Сүүлийн мөрийг устгахдаа та итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Pages/jobs.ctp:135
+msgid "Анкет бөглөх"
+msgstr ""
+
+#: Template/Pages/search.ctp:60
+msgid "Хайлтын үр дүн"
+msgstr ""
+
+#: Template/Pages/tenger.ctp:41 Template/Products/admin_index.ctp:68
+msgid "Эхлэл"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:64
+msgid "Онцлох"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:73
+msgid "Parent"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:87
+msgid "Icon image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:87
+msgid ""
+"Бүтээгдэхүүнийг илэрхийлэх жижиг icon зураг. Зургийн өргөн хамгийн багадаа "
+"50px байна."
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:106
+msgid "Зургийн өргөн 1200 аас багагүй байх ёстой"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:115
+msgid "Select icon image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:118
+msgid "Delete icon image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:124
+msgid "Cover image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:124
+msgid ""
+"Бүтээгдэхүүний дэлгэрэнгүй хуудасны дээд талд харагдах том зураг. Зургийн "
+"хэмжээ хамгийн багадаа 815x300 байна."
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:129
+msgid "Grid image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:129
+msgid ""
+"Бүтээгдэхүүнийг лист байдлаар харуулахад ашиглагдна. Хэмжээ 400x260 байна."
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:130
+msgid "Select grid image"
+msgstr ""
+
+#: Template/Products/admin_crud.ctp:130
+msgid "Delete grid image"
+msgstr ""
+
+#: Template/Products/admin_index.ctp:27;30
+msgid "Товч текст"
+msgstr ""
+
+#: Template/Products/admin_index.ctp:38;40
+msgid "Та \"{0}\"-г устгахдаа итгэлтэй байна уу?"
+msgstr ""
+
+#: Template/Products/admin_index.ctp:64
+msgid "Бүтээгдэхүүнүүд"
+msgstr ""
+
+#: Template/Products/admin_index.ctp:88
+msgid "Устгасан"
+msgstr ""
+
+#: Template/Products/list.ctp:45;101
+msgid "Харьцуулах"
+msgstr ""
+
+#: Template/Products/list.ctp:103
+msgid "Нийт 3 хүртэл"
+msgstr ""
+
+#: Template/Products/list.ctp:106
+msgid "Харьцуулж эхлэх"
+msgstr ""
+
+#: Template/Products/list.ctp:175
+msgid "Та харицуулах бүтээгдэхүүнээ сонгоно уу!"
+msgstr ""
+
+#: Template/Products/view.ctp:66
+msgid "Түгээмэл асуулт"
+msgstr ""
+
+#: Template/Products/view.ctp:67
+msgid "Та түгээмэл асуултуудын хариултыг эндээс харна уу."
+msgstr ""
+
+#: Template/Products/view.ctp:117
+msgid "Санал болгох"
+msgstr ""
+
+#: View/Helper/AppUserHelper.php:47
+msgid "Dashboard"
+msgstr ""
+
+#: View/Helper/AppViewHelper.php:50
+msgid "Status"
+msgstr "Төлөв"
+
+#: View/Helper/AppViewHelper.php:78
+msgid "reCaptcha is not configured! Please configure Users.reCaptcha.key"
+msgstr ""
+
+#~ msgid "Wrong request."
+#~ msgstr "Алдаа гарлаа"
+
+#~ msgid "The {0} could not be saved! {1}"
+#~ msgstr "Хадгалахад алдаа гарлаа"
+
+#~ msgid "The attachment has been saved."
+#~ msgstr "Хавсралт хадгалагдлаа."
+
+#~ msgid "The attachment could not be saved. Please, try again."
+#~ msgstr "Хавсралт хадгалахад алдаа гарлаа. Та дахин оролдно уу."
+
+#~ msgid "The attachment has been deleted."
+#~ msgstr "Хавсралт устгагдлаа."
+
+#~ msgid "The attachment could not be deleted. Please, try again."
+#~ msgstr "Хавсралт устгахад алдаа гарлаа. Та дахин оролдно уу."
+
+#~ msgid "File size is too big!"
+#~ msgstr "Файлын хэмжээ хэт том байна."
+
+#~ msgid ""
+#~ "Only accept .gif, .jpeg, .png file. Check the attachment and try again."
+#~ msgstr "Зөвхөн .gif, .jpeg, .png өргөтгөлтэй зураг зөвшөөрнө."
+
+#~ msgid "Successful"
+#~ msgstr "Амжилттай"
+
+#~ msgid "The attachment could not be updated. Please, try again."
+#~ msgstr "Хавсралтыг хадгалах боломжгүй байна. Дахин оролдоно уу."
+
+#~ msgid "The attachment has been deleted"
+#~ msgstr "Хавсралт устгагдлаа."
+
+#~ msgid "Unable to delete the attachment"
+#~ msgstr "Хавсралтыг устгахад боломжгүй байна."
+
+#~ msgid "Uploaded file is not an image"
+#~ msgstr "Сонгосон файл зураг биш байна."
+
+#~ msgid "Uploaded file is not an SWF"
+#~ msgstr "Сонгосон файл SWF файл биш байна"
+
+#~ msgid "The bookmark has been deleted."
+#~ msgstr "Нийтлэлийг жагсаалтаас хаслаа."
+
+#~ msgid "The bookmark could not be deleted. Please, try again."
+#~ msgstr "Нийтлэлийг жагсаалтаас хасах боломжгүй байна."
+
+#~ msgid "The circle has been deleted."
+#~ msgstr "Давхарга усгагдлаа."
+
+#~ msgid "The circle could not be deleted. Please, try again."
+#~ msgstr "Давхаргыг устгах боломжгүй байна. Дахин оролдоно уу."
+
+#~ msgid "The topic has been saved."
+#~ msgstr "Хэлэлцүүлгийн сэдэв хадгалагдлаа."
+
+#~ msgid "Disabled"
+#~ msgstr "Идэвхгүй"
+
+#~ msgid "Add photo"
+#~ msgstr "Зураг нэмэх"
+
+#~ msgid "Resend Validation email"
+#~ msgstr "Идэвхжүүлэх мэйл дахин явуулах"
+
+#~ msgid "Please enter your email or username"
+#~ msgstr "Та имэйл хаяг эсвэл нэвтрэх нэрээ оруулна уу"
+
+#~ msgid "Social Email"
+#~ msgstr "Сошиал имэйл"
+
+#~ msgid "Username"
+#~ msgstr "Нэвтрэх нэр"
+
+#~ msgid "Full Name"
+#~ msgstr "Бүтэн нэр"
+
+#~ msgid "Short Bio"
+#~ msgstr "Товт танилцуулга"
+
+#~ msgid "Draft changes are saved automatically."
+#~ msgstr "Ноорог нийтлэл нь автоматаар хадгалагдана"
+
+#~ msgid "Draft changes are can't be saved."
+#~ msgstr "Ноорогт оруулсан өөрчлөлт хадгалагдсангүй"
+
+#~ msgid "Embed"
+#~ msgstr "Эмбэд"
+
+#~ msgid "Swf"
+#~ msgstr "SWF"
+
+#~ msgid "Action"
+#~ msgstr "Үйлдэл"
+
+#~ msgid "Back"
+#~ msgstr "Буцах"
+
+#~ msgid "Save"
+#~ msgstr "Хадгалах"
+
+#~ msgid "Circles"
+#~ msgstr "Нийгмийн давхарга"
+
+#~ msgid "Position"
+#~ msgstr "Дараалал"
+
+#~ msgid "Name En"
+#~ msgstr "Англи нэр"
+
+#~ msgid "Menu"
+#~ msgstr "Цэс"
+
+#~ msgid "Email subscribers"
+#~ msgstr "Имэйл хүлээн авагчид"
+
+#~ msgid "Emails"
+#~ msgstr "Имэйл"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Add Topic"
+#~ msgstr "Шинэ давхарга"
+
+#~ msgid "Required Circles"
+#~ msgstr "Шаардлагатай давхаргууд"
+
+#~ msgid "Poll"
+#~ msgstr "Санал асуулга"
+
+#~ msgid "The {0} role has been updated"
+#~ msgstr "Эрхийн мэдээлэл хадгалагдлаа."
+
+#~ msgid "You are not authorized to access that location."
+#~ msgstr "Танд хандах эрх байхгүй байна."
+
+#~ msgid "User account already validated"
+#~ msgstr "Хэрэглэгчийн профайлийг идэвхжүүлсэн байна."
+
+#~ msgid "Change Password"
+#~ msgstr "Нууц үг солих"
+
+#~ msgid "Social Accounts"
+#~ msgstr "Сошиал профайлууд"
+
+#~ msgid "Avatar"
+#~ msgstr "Аватар"
+
+#~ msgid "Link to {0}"
+#~ msgstr "{0}-ийн линк"
+
+#~ msgid " Accept TOS conditions?"
+#~ msgstr "Үйлчилгээний нөхцлийг зөвшөөрнө?"
+
+#~ msgid "Please enter your email to reset your password"
+#~ msgstr "Та нууц үгээ сэргээхийн тулд имэйл хаягаа оруулна уу"
+
+#~ msgid "Email or username"
+#~ msgstr "Имэйл эсвэл хэрэглэгчийн нэр"
+
+#~ msgid "Please enter your email"
+#~ msgstr "Та имэйл хаягаа оруулна уу"
+
+#~ msgid "Related Accounts"
+#~ msgstr "Холбоотой профайлууд"
+
+#~ msgid "Reference"
+#~ msgstr "Тайлбар"
+
+#~ msgid "Token"
+#~ msgstr "Төкен"
+
+#~ msgid "Token Expires"
+#~ msgstr "Төкен хүчинтэй хугацаа"
+
+#~ msgid "Data"
+#~ msgstr "Мэдээлэл"
+
+#~ msgid "Sign in with Facebook"
+#~ msgstr "Фейсбүүкээр нэвтрэх"
+
+#~ msgid "Sign in with Twitter"
+#~ msgstr "Твиттерээр нэвтрэх"
+
+#~ msgid "Logout"
+#~ msgstr "Гарах"
+
+#~ msgid "Welcome, {0}"
+#~ msgstr "Сайн байна уу,  {0}"
+
+#~ msgid "Register"
+#~ msgstr "Бүртгүүлэх"
+
+#~ msgid "Enter your informations"
+#~ msgstr "Мэдээллээ оруулна уу"
+
+#~ msgid "Password"
+#~ msgstr "Нууц үг"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Нууц үгээ давт"
+
+#~ msgid "First Name"
+#~ msgstr "Нэр"
+
+#~ msgid "Last Name"
+#~ msgstr "Овог"
+
+#~ msgid "Reset Password"
+#~ msgstr "Нууц үг сэргээх"
+
+#~ msgid "Lasr Name"
+#~ msgstr "Овог"
+
+#~ msgid "<h2>Menu</h2>"
+#~ msgstr "<h2>Үндсэн цэс</h2>"
+
+#~ msgid "Not Found"
+#~ msgstr "Олдсонгүй"
+
+#~ msgid "An Internal Error Has Occurred."
+#~ msgstr "Серверийн алдаа гарлаа."
+
+#~ msgid "%s ago"
+#~ msgstr "%s-н өмнө"
+
+#~ msgid "just now"
+#~ msgstr "дөнгөж сая"
+
+#~ msgid "about a second ago"
+#~ msgstr "секундын өмнө"
+
+#~ msgid "about a minute ago"
+#~ msgstr "минутын өмнө"
+
+#~ msgid "about an hour ago"
+#~ msgstr "цагийн өмнө"
+
+#~ msgid "about a day ago"
+#~ msgstr "өдрийн өмнө"
+
+#~ msgid "about a week ago"
+#~ msgstr "долоо хоногийн өмнө"
+
+#~ msgid "about a year ago"
+#~ msgstr "жилийн өмнө"
+
+#~ msgid "in about a second"
+#~ msgstr "секундын дотор"
+
+#~ msgid "in about a minute"
+#~ msgstr "минутын дотор"
+
+#~ msgid "in about an hour"
+#~ msgstr "цагийн дотор"
+
+#~ msgid "in about a day"
+#~ msgstr "өдрийн дотор"
+
+#~ msgid "in about a week"
+#~ msgstr "долоо хоногийн дотор"
+
+#~ msgid "in about a year"
+#~ msgstr "жилийн дотор"
+
+#~ msgid "{0} year"
+#~ msgid_plural "{0} years"
+#~ msgstr[0] "{0} жил"
+#~ msgstr[1] ""
+
+#~ msgid "{0} month"
+#~ msgid_plural "{0} months"
+#~ msgstr[0] "{0} сар"
+#~ msgstr[1] ""
+
+#~ msgid "{0} week"
+#~ msgid_plural "{0} weeks"
+#~ msgstr[0] "{0} долоо хоног"
+#~ msgstr[1] ""
+
+#~ msgid "{0} day"
+#~ msgid_plural "{0} days"
+#~ msgstr[0] "{0} өдөр"
+#~ msgstr[1] ""
+
+#~ msgid "{0} hour"
+#~ msgid_plural "{0} hours"
+#~ msgstr[0] "{0} цаг"
+#~ msgstr[1] ""
+
+#~ msgid "{0} minute"
+#~ msgid_plural "{0} minutes"
+#~ msgstr[0] "{0} минут"
+#~ msgstr[1] ""
+
+#~ msgid "{0} second"
+#~ msgid_plural "{0} seconds"
+#~ msgstr[0] "{0} секунд"
+#~ msgstr[1] ""
+
+#~ msgid "The requested file was not found"
+#~ msgstr "Файл олдсонгүй"
+
+#~ msgid "This value is already in use"
+#~ msgstr "Энэ мэдээлэл бүртгэгдсэн байна"
+
+#~ msgid "This value does not exist"
+#~ msgstr "Энэ мэдээлэл бүртгэгдээгүй байна"
+
+#~ msgid "This field is required"
+#~ msgstr "Энэ талбарыг заавал бөглөнө үү"
+
+#~ msgid "This field cannot be left empty"
+#~ msgstr "Энэ талбарыг бөглөнө үү"
+
+#~ msgid "The provided value is invalid"
+#~ msgstr "Оруулсан мэдээлэл алдаатай байна"
+
+#~ msgid "New %s"
+#~ msgstr "%s нэмэх"
+
+#~ msgid "Home"
+#~ msgstr "Нүүр хуудас"
+
+#~ msgid "January"
+#~ msgstr "1-р сар"
+
+#~ msgid "February"
+#~ msgstr "2-р сар"
+
+#~ msgid "March"
+#~ msgstr "3-р сар"
+
+#~ msgid "April"
+#~ msgstr "4-р сар"
+
+#~ msgid "May"
+#~ msgstr "5-р сар"
+
+#~ msgid "June"
+#~ msgstr "6-р сар"
+
+#~ msgid "July"
+#~ msgstr "7-р сар"
+
+#~ msgid "August"
+#~ msgstr "8-р сар"
+
+#~ msgid "September"
+#~ msgstr "9-р сар"
+
+#~ msgid "October"
+#~ msgstr "10-р сар"
+
+#~ msgid "November"
+#~ msgstr "11-р сар"
+
+#~ msgid "December"
+#~ msgstr "12-р сар"

@@ -1,0 +1,276 @@
+@media (min-width: 1220px) {
+  .featureddotnav {
+      max-width: 1160px;
+      padding-right: 35px;
+  }
+  .featured-menu,
+  .featured-ebank,
+  .headline-nav {
+      /*max-width: 100px;*/
+  }
+}
+
+@media (max-width: 1200px) {
+  .uk-grid.ck-slider {
+    margin-left: -140px;
+  }
+  .uk-grid.ck-slider > * {
+    padding-left: 140px;
+  }
+  .dot-circle1 {
+    width: 440px;
+    margin-left: -220px;
+    margin-top: -220px;
+  }
+  .dot-circle2 {
+    width: 540px;
+    margin-left: -270px;
+    margin-top: -270px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .featured-products {
+    padding-top: 57px;
+    padding-bottom: 71px;
+  }
+
+  .uk-grid.ck-slider {
+    margin-left: -90px;
+  }
+  .uk-grid.ck-slider > * {
+    padding-left: 90px;
+    padding-top: 53px;
+    padding-bottom: 53px;
+  }
+  .dot-circle1 {
+    max-width: 396px;
+    width: 396px;
+    margin-left: -198px;
+    margin-top: -198px;
+  }
+  .dot-circle2 {
+    max-width: 500px;
+    width: 500px;
+    margin-left: -250px;
+    margin-top: -250px;
+  }
+}
+@media (max-width: 872px) {
+  .middle-nav img.logo {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .featured_content h1 {
+    font-size: 20px!important;
+    line-height: 28px!important;
+  }
+
+  h2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  h3 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  h4 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .uk-grid.ck-slider {
+    margin-left: -70px;
+  }
+  .uk-grid.ck-slider > * {
+    padding-left: 70px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .featured-menu>div>div {
+    margin-bottom: 1px;
+  }
+  .featured-menu a {
+    line-height: 21px;
+    padding: 13px 10px 10px 20px;
+  }
+  .featureddotnav {
+    padding-right: 35px
+  }
+  .middle-nav img.logo {
+    margin-right: 0px;
+  }
+  .middle-nav a {
+    padding: 14px 15px;
+  }
+}
+@media (max-width: 767px) {
+  .middle-nav .ebank-login {
+    margin-top: 13px;
+    margin-right: 10px;
+  }
+  .middle-nav a[data-uk-offcanvas] {
+    padding: 16px 18px;
+    margin: 0;
+  }
+  .breadcrumb {
+    margin-top: 0px;
+  }
+  .rates-slide {
+    padding-left: 0px;
+  }
+  
+  ul.timeline ul.inner {
+    width: calc(100% - 52px);
+    margin-left: 20px;
+    margin-top: 33px;
+  }
+  ul.timeline>li>.year {
+    padding: 4px 15px;
+    width: auto;
+    border-radius: 13px;
+    position: absolute;
+    margin-top: 0px;
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(89, 76, 179, 0.2);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(89, 76, 179, 0.2);
+    box-shadow: 0px 0px 20px 0px rgba(89, 76, 179, 0.2);
+  }
+  ul.timeline>li>ul.inner:before {
+    top: -3px;
+  }
+  
+  ::-webkit-scrollbar {
+      -webkit-appearance: none;
+  }
+
+  ::-webkit-scrollbar:vertical {
+      width: 12px;
+  }
+
+  ::-webkit-scrollbar:horizontal {
+      height: 12px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+      background-color: rgba(0, 0, 0, .5);
+      border-radius: 10px;
+      border: 2px solid #ffffff;
+  }
+
+  ::-webkit-scrollbar-track {
+      border-radius: 10px;  
+      background-color: #ffffff; 
+  }
+}
+@media (max-width: 600px) {
+  .middle-nav img.logo {
+    margin-right: 0px;
+  }
+  .headlines .text-right {
+    text-align: left!important
+  }
+  .float-right-small {
+    float:right;
+  }
+  .home-tools .uk-button-dropdown {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  .uk-overlay-panel {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .featured-products {
+    padding-top: 47px;
+    padding-bottom: 41px;
+  }
+  .uk-grid.ck-slider {
+    margin-left: -50px;
+  }
+  .uk-grid.ck-slider > * {
+    padding-left: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .dot-circle1 {
+    max-width: 357px!important;
+    width: 357px!important;
+    margin-left: -179px;
+    margin-top: -179px;
+  }
+  .dot-circle2 {
+    max-width: 457px!important;
+    width: 457px!important;
+    margin-left: -229px;
+    margin-top: -229px;
+  }
+}
+
+@media (max-width: 479px) {
+  .home-tools .text-darkyellow.text-bold.text-20 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .top-nav a {
+    padding: 0px 14px;
+  }
+  .uk-grid.ck-slider {
+    margin-left: -20px;
+  }
+  .uk-grid.ck-slider > * {
+    padding-left: 20px;
+  }
+  .ck-slider>li.uk-active>.ck-card-curve {
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: -6%;
+  }
+  #search-modal input.ck-input,
+  section.footer input.ck-input {
+    min-width: 60px;
+  }
+  .ck-nav.uk-slidenav-next {
+    right: -10px;
+  }
+  .ck-nav.uk-slidenav-previous {
+    left: -10px;
+  }
+  .cover-card {
+    width: calc(100% - 25px);
+    float: none;
+    padding-bottom: 40px;
+  }
+  .product-card .left {
+    width: 100%;
+    overflow: hidden;
+    height: 200px;
+  }
+
+  .product-card .right {
+    width: 100%;
+  }
+  .product-card .content .icon {
+    top: -25px;
+    left: 25px;
+  }
+  
+  .tool-box .uk-button-dropdown {
+    margin-right: 0px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  .middle-nav .ebank-login {
+    width: calc(100% - 30px);
+    margin: 15px 0 15px 0;
+  }
+  .featured_content .margin-top-40 {
+    margin-top: 20px;
+  }
+}

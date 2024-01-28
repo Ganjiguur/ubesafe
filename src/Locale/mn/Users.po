@@ -1,0 +1,362 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright 2010 - 2015, Cake Development Corporation (http://cakedc.com)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CakeDC Users\n"
+"POT-Creation-Date: 2016-10-05 11:51+0800\n"
+"PO-Revision-Date: 2016-10-05 11:52+0800\n"
+"Last-Translator: \n"
+"Language-Team: CakeDC <contact@cakedc.com>\n"
+"Language: mn_MN@cyrillic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#: Controller/AppUsersController.php:262
+msgid "You must log out to register a new user account"
+msgstr "Шинээр бүртгүүлэхийн тулд системээс гарна уу."
+
+msgid "Account validated successfully"
+msgstr "Профайл идэвхжлээ"
+
+msgid "Account could not be validated"
+msgstr "Профайлыг идэвхжүүлэхэд алдаа гарлаа"
+
+msgid "Invalid token and/or social account"
+msgstr "Төкен/сошиал профайл буруу байна"
+
+msgid "SocialAccount already active"
+msgstr "Сошиал профайл идэвхтэй байна"
+
+msgid "Social Account could not be validated"
+msgstr "Сошиал профайлыг идэвхжүүлэхэд алдаа гарлаа"
+
+msgid "Email sent successfully"
+msgstr "Имэйл ажилттай явууллаа"
+
+msgid "Email could not be sent"
+msgstr "Имэйл явуулах боломжгүй байна"
+
+msgid "Invalid account"
+msgstr "Буруу профайл"
+
+msgid "Social Account already active"
+msgstr "Сошиал профайл идэвхжсэн байна"
+
+msgid "Email could not be resent"
+msgstr "Имэйлийг дахин явуулах боломжгүй"
+
+msgid "The social account is not active. Please check your email for instructions. {0}"
+msgstr "Таны сошиал профайл идэвхгүй байна. Та заавар бүхий имэйлээ шалгана уу. {0}"
+
+msgid "Please enter your email"
+msgstr "Та имэйл хаягаа оруулна уу"
+
+msgid "Username or password is incorrect"
+msgstr "Нэвтрэх нэр эсвэл нууц үг буруу байна"
+
+msgid "There was an error associating your social network account"
+msgstr "Таны сошиал профайлтай холбоотой алдаа гарсан байна"
+
+msgid "You've successfully logged out"
+msgstr "Та вэбээс гарлаа"
+
+msgid "Password has been changed successfully"
+msgstr "Нууц үг шинэчлэгдлээ"
+
+msgid "Password could not be changed"
+msgstr "Нууц үгийг солих болмжгүй"
+
+msgid "User was not found"
+msgstr "Хэрэглэгч олдсонгүй"
+
+msgid "The current password does not match"
+msgstr "Одоогийн нууц үг таарахгүй байна"
+
+msgid "Please check your email to continue with password reset process"
+msgstr "Нууц үг сэргээх холбоосийг бүртгүүлсэн имэйл хаягт илгээлээ"
+
+msgid "The password token could not be generated. Please try again"
+msgstr "Нууц үгийн төкенийг үүсгэх боломжгүй байна. Та дахин оролдно уу"
+
+msgid "User {0} was not found"
+msgstr "{0} хэрэглэгч олдсонгүй"
+
+msgid "Token could not be reset"
+msgstr "Төкен шинэчлэхэд алдаа гарлаа"
+
+msgid "The user could not be saved"
+msgstr "Хэрэглэгч хадгалахад алдаа гарлаа"
+
+msgid "You have registered successfully, please log in"
+msgstr "Та бүртгэгдлээ, нэвтэрч орно уу"
+
+msgid "Please validate your account before log in"
+msgstr "Та нэвтрэхийн тулд өөрийн профайлаа идэвхжүүлэх шаардлагатай"
+
+msgid "The {0} has been saved"
+msgstr "{0} -н мэдээлэл хадгалагдлаа"
+
+msgid "The {0} could not be saved"
+msgstr "{0} -г хадгалахад алдаа гарлаа"
+
+msgid "The {0} has been deleted"
+msgstr "{0} устгагдлаа"
+
+msgid "The {0} could not be deleted"
+msgstr "{0} -г устгахад алдаа гарлаа"
+
+msgid "User account validated successfully"
+msgstr "Хэрэглэгчийн профайл идэвхжлээ"
+
+msgid "User account could not be validated"
+msgstr "Хэрэглэгчийн профайлыг идэвхжүүлэх боломжгүй байна"
+
+msgid "User already active"
+msgstr "Хэрэглэгчийн эрх идэвхтэй байна"
+
+msgid "Reset password token was validated successfully"
+msgstr "Нууц үгээ сэргээх төкен идэвхжлээ"
+
+msgid "Reset password token could not be validated"
+msgstr "Нууц үг сэргээх төкенийг идэвхжүүлэх боломжгүй байна"
+
+msgid "Invalid token and/or email"
+msgstr "Төкен/имэйл буруу байна"
+
+msgid "Token already expired"
+msgstr "Төкен идэвхгүй болсон байна"
+
+msgid "Invalid validation type"
+msgstr "Баталгаажуулах төрөл буруу байна"
+
+msgid "Token has been reset successfully. Please check your email."
+msgstr "Төкен шинэчлэгдлээ. Та имэйлээ шалгана уув"
+
+msgid "User {0} is already active"
+msgstr " {0} хэрэглэгч идэвхжсэн байна."
+
+msgid "{0}Your social account validation link"
+msgstr "{0} Таны сошиал профайлын идэвхжүүлэх линк"
+
+msgid "Account already validated"
+msgstr "Профайл идэвхжсэн байна."
+
+msgid "Account not found for the given token and email."
+msgstr "Өгөгдсөн имэйл хаяг болон төкенд харгалзах профайл олдсонгүй"
+
+msgid "Your password does not match your confirm password. Please try again"
+msgstr "Нууц үгүүд таарахгүй байна. Дахин оруулна уу"
+
+msgid "Username already exists"
+msgstr "Нэвтрэх нэр бүртгэгдсэн байна"
+
+msgid "Email already exists"
+msgstr "Имэйл хаяг бүртгэгдсэн байна"
+
+msgid "The \"tos\" property is not present"
+msgstr "Ү/нөхцөл зөвшөөрсөн эсэх өгөгдлөл алга байна."
+
+msgid "Token has already expired user with no token"
+msgstr "Уг төкений хүчинтэй хугацаа дууссан байна."
+
+msgid "User not found for the given token and email."
+msgstr "Өгөгдсөн имэйл хаяг болон төкенд харгалзах хэрэглэгч олдсонгүй"
+
+msgid "User not found"
+msgstr "Хэрэглэгч олдсонгүй"
+
+msgid "+ {0} secs"
+msgstr "+ {0} секунд"
+
+msgid "Unable to login user with reference {0}"
+msgstr "Логин хийх боломжгүй байна"
+
+msgid "Email not present"
+msgstr "Имэйл хаяг байхгүй байна"
+
+msgid "{0}Your account validation link"
+msgstr " {0} Таны профайлаа идэвхжүүлэх линк"
+
+msgid "{0}Your reset password link"
+msgstr "{0} Таны нууц үгээ сэргээх линк"
+
+msgid "The old password does not match"
+msgstr "Хуучин нууц үг таарахгүй байна"
+
+msgid "Hi {0}"
+msgstr "Сайн байна уу {0}"
+
+msgid "Reset your password here"
+msgstr "Энд нууц үгээ сэргээнэ"
+
+msgid "If the link is not correctly displayed, please copy the following address in your web browser {0}"
+msgstr "Хэрэвээ линк зөв харагдахгүй байвал, доорх линкийг вэб хөтөч дээрээ хуулж тавина уу {0}"
+
+msgid "Thank you"
+msgstr "Баярлалаа"
+
+msgid "Activate your social login here"
+msgstr "Сошиал профайлаа энд идэвхжүүлнэ"
+
+msgid "Activate your account here"
+msgstr "Профайлаа энд идэвхжүүлнэ"
+
+msgid "Please copy the following address in your web browser {0}"
+msgstr "Та доорх линкийг вэб хөтөч дээрээ хуулна уу {0}"
+
+msgid "Please copy the following address in your web browser to activate your social login {0}"
+msgstr "Та {0} сошиал хаягаар бүртгүүлсэн эрхээ доорх линкийг вэб хөтөч дээрээ хуулж тавин идэвхжүүлнэ үү"
+
+msgid "Actions"
+msgstr "Үйлдэл"
+
+msgid "List Users"
+msgstr "Хэрэглэгчид"
+
+msgid "List Accounts"
+msgstr "Профайлууд"
+
+msgid "Add User"
+msgstr "Хэрэглэгч нэмэх"
+
+msgid "Submit"
+msgstr "Хадгалах"
+
+msgid "Please enter the new password"
+msgstr "Шинэ нууц үгээ оруулна уу"
+
+msgid "Current password"
+msgstr "Одоогийн нууц үг"
+
+msgid "Delete"
+msgstr "Устгах"
+
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Та {0}-г устгахдаа итгэлтэй байна уу?"
+
+msgid "Edit User"
+msgstr "Хэрэглэгч засах"
+
+msgid "New {0}"
+msgstr "Шинэ {0}"
+
+msgid "View"
+msgstr "Харах"
+
+msgid "Change password"
+msgstr "Нууц үг өөрчлөх"
+
+msgid "previous"
+msgstr "өмнөх"
+
+msgid "next"
+msgstr "дараагийн"
+
+msgid "Please enter your username and password"
+msgstr "Нэвтрэх нэр, нууц үгээ оруулна уу"
+
+msgid "Remember me"
+msgstr "Намайг сана"
+
+msgid "Login"
+msgstr "Нэвтрэх"
+
+msgid "Change Password"
+msgstr "Нууц үг солих"
+
+msgid "Username"
+msgstr "Нэвтрэх нэр"
+
+msgid "Email"
+msgstr "Имэйл"
+
+msgid "Social Accounts"
+msgstr "Сошиал профайлууд"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "Provider"
+msgstr "Хангамж"
+
+msgid "Link"
+msgstr "Линк"
+
+msgid "Accept TOS conditions?"
+msgstr "Үйлчилгээний нөхцлийг зөвшөөрнө?"
+
+msgid "Please enter your email to reset your password"
+msgstr "Нууц үгээ сэргээхийн тулд имэйл хаягаа оруулна уу."
+
+msgid "Resend Validation email"
+msgstr "Идэвхжүүлэх имэйл дахин явуулах"
+
+msgid "Email or username"
+msgstr "Имэйл эсвэл нэвтрэх нэр"
+
+msgid "Delete User"
+msgstr "Хэрэглэгч устгах"
+
+msgid "New User"
+msgstr "Шинэ хэрэглэгч"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "First Name"
+msgstr "Нэр"
+
+msgid "Last Name"
+msgstr "Овог"
+
+msgid "Token"
+msgstr "Токен"
+
+msgid "Api Token"
+msgstr " Api Токен"
+
+msgid "Active"
+msgstr "Идэвхтэй"
+
+msgid "Token Expires"
+msgstr "Токен хүчинтэй хугацаа"
+
+msgid "Activation Date"
+msgstr "Идэвхжүүлсэн огноо"
+
+msgid "Tos Date"
+msgstr "Ү/нөхцөл зөвшөөрсөн огноо"
+
+msgid "Created"
+msgstr "Үүсгэсэн"
+
+msgid "Modified"
+msgstr "Зассан"
+
+msgid "Related Accounts"
+msgstr "Холбоотой профайлууд"
+
+msgid "User Id"
+msgstr "Хэрэглэгчийн ID"
+
+msgid "Reference"
+msgstr "Тайлбар"
+
+msgid "Data"
+msgstr "Мэдэээлэл"
+
+msgid "Sign in with Facebook"
+msgstr "Фэйсбүүкээр нэвтрэх"
+
+msgid "Sign in with Twitter"
+msgstr "Твиттерээр нэвтрэх"
+
+msgid "Logout"
+msgstr "Гарах"
+
+msgid "Welcome, {0}"
+msgstr "Тавтай морил,  {0}"

@@ -1,0 +1,111 @@
+/* 10. print styles ================================== */
+/* print stylesheet */
+@media print {
+  *,
+  *:before,
+  *:after {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+ img {
+    max-width: 100% !important;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+  .uk-table th,
+  .uk-table td {
+    border: 1px solid #ccc !important;
+  }
+  #sidebar_main,
+  #sidebar_secondary,
+  #header_main,
+  #style_switcher,
+  .header_double_height:before,
+  .hidden-print,
+  .md-fab-wrapper {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    margin: 0 !important;
+    left: 0 !important;
+  }
+  
+  .visible-print {
+    display:block !important;
+    visibility: visible !important;
+  }
+  .sidebar_main_active #header_main,
+  .sidebar_main_active #top_bar {
+    display: none !important;
+    left: 0 !important;
+  }
+  body {
+    overflow-y: visible !important;
+    background: #fff;
+    padding: 20px !important;
+  }
+  body:after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    display: block;
+    z-index: 9999;
+  }
+  #sidebar_main {
+    left: -240px !important;
+  }
+  .main-print {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    left: 0 !important;
+    top: 0 !important;
+  }
+  .md-card-single {
+    margin: 0 !important;
+  }
+  #page_content {
+    margin: 0 !important;
+    overflow-y: visible !important;
+    height: auto !important;
+    -webkit-transition: none !important;
+    transition: none !important;
+  }
+  #page_content:before {
+    display: none !important;
+  }
+  .print_bg,
+  .print_bg > * {
+    -webkit-print-color-adjust: exact;
+  }
+  .reset-print {
+    left: 0 !important;
+    right: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+  .md-card-content {
+    height: auto !important;
+  }
+  .print_hidden {
+    display: none !important;
+  }
+}
