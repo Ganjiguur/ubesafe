@@ -32,5 +32,8 @@ COPY . /var/www/html
 RUN chown -R www-data:www-data /var/www/html/logs
 RUN chmod -R 755 /var/www/html/logs
 
+# Install the cakephp/cors package
+RUN composer require cakephp/cors
+
 # Make port 80 available to the world outside this container
 EXPOSE 80

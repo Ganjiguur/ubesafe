@@ -41,6 +41,12 @@ class Application extends BaseApplication
             // and make an error page/response
             ->add(ErrorHandlerMiddleware::class)
 
+            ->add(new CorsMiddleware([
+                'origin' => ['*'], // Change this to your allowed origins
+                'methods' => ['GET', 'POST', 'PUT', 'DELETE'],
+                'headers' => ['X-CSRF-Token'],
+            ]))
+
             // Handle plugin/theme assets like CakePHP normally does.
             ->add(AssetMiddleware::class)
 
