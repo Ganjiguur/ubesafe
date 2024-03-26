@@ -201,6 +201,7 @@ trait FactoryTrait
      * @return static
      * @throws \InvalidArgumentException
      */
+    #[\ReturnTypeWillChange]
     public static function createFromFormat($format, $time, $tz = null)
     {
         if ($tz !== null) {
@@ -269,6 +270,7 @@ trait FactoryTrait
      *
      * @return array
      */
+    #[\ReturnTypeWillChange] 
     public static function getLastErrors()
     {
         if (empty(static::$_lastErrors)) {

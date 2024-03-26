@@ -46,6 +46,7 @@ trait TimezoneTrait
      * @param \DateTimeZone|string $value The DateTimeZone object or timezone name to use.
      * @return static
      */
+    #[\ReturnTypeWillChange]
     public function setTimezone($value)
     {
         $date = parent::setTimezone(static::safeCreateDateTimeZone($value));

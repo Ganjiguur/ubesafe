@@ -111,6 +111,7 @@ trait ModifierTrait
      * @return static
      * @see https://bugs.php.net/bug.php?id=63863
      */
+    #[\ReturnTypeWillChange]
     public function setDate($year, $month, $day)
     {
         return $this->modify('+0 day')->setDateParent($year, $month, $day);
